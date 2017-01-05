@@ -8,6 +8,18 @@
 
 **Link to work:** [geoBeer Map](http://breweries.flynnmj.org/leaflet_20170103.html)
 
+### Day 2: January 4, 2017
+
+**Today's Progress:** More [Leaflet.js](http://leafletjs.com/) coding. Changed to circle markers so that I could provide color and size to the markers. Used an ES6 template string to create an HTML fragment for the marker's popup. This let me bold the brewery name and link to their website.
+
+**Thoughts:** Started out trying to use Leaflet.vector-markers, but couldn't get around the following error:
+
+`Uncaught (in promise) DOMException: Failed to execute 'add' on 'DOMTokenList': The token provided must not be empty`
+
+Need to look into the `pointToLayer` option for the `L.geoJSON` call.  
+
+
+**Link to work:** [geoBeer Map](http://breweries.flynnmj.org/leaflet_20170104.html)
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
