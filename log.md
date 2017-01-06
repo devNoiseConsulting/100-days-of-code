@@ -21,7 +21,7 @@ Need to look into the `pointToLayer` option for the `L.geoJSON` call.
 
 **Link to work:** [geoBeer Map #2](http://breweries.flynnmj.org/leaflet_20170104.html)
 
-### Day 2: January 5, 2017
+### Day 3: January 5, 2017
 
 **Today's Progress:** More [Leaflet.js](http://leafletjs.com/) coding. Was able to get the Leaflet.vector-markers to work. Went with Font Awesome for the marker icons.
 
@@ -30,6 +30,14 @@ Need to look into the `pointToLayer` option for the `L.geoJSON` call.
 Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for the icon information, so the code couldn't find any styles for the icon I was trying to reference.
 
 **Link to work:** [geoBeer Map #3](http://breweries.flynnmj.org/leaflet_20170105.html)
+
+### Day 4: January 6, 2017
+
+**Today's Progress:** More [Leaflet.js](http://leafletjs.com/) coding. Trying to filter the breweries. Added buttons to filter the breweries from the map. Also added a search box to filter breweries by their name.
+
+**Thoughts:** Moved some code into a function since it would be used in other functions. Also made some global variables for the brewery data and the map layer. This allowed me to remove the breweries from the map before I filtered them. Otherwise you couldn't tell the filters were doing any work.
+
+**Link to work:** [geoBeer Map #4](http://breweries.flynnmj.org/leaflet_20170106.html)
 
 
 ### Day 0: February 30, 2016 (Example 1)
