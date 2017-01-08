@@ -39,6 +39,14 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 
 **Link to work:** [geoBeer Map #4](http://breweries.flynnmj.org/leaflet_20170106.html)
 
+### Day 5: January 7, 2017
+
+**Today's Progress:** Started building a script to use Facebook's Graph API to find breweries. Made a function to do a place search and another function to get information about the place.
+
+**Thoughts:** Had to skim through the docs a couple times to figure out how to get an access token. Using the Graph API Explorer to figure out what fields I need.
+
+**Link to work:** Due to the app_id and app_secret being in the code I'm not putting this to Github just yet. 
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
