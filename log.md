@@ -45,7 +45,15 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 
 **Thoughts:** Had to skim through the docs a couple times to figure out how to get an access token. Using the Graph API Explorer to figure out what fields I need.
 
-**Link to work:** Due to the app_id and app_secret being in the code I'm not putting this to Github just yet. 
+**Link to work:** Due to the app_id and app_secret being in the code I'm not putting this to Github just yet.
+
+### Day 6: January 8, 2017
+
+**Today's Progress:** Pulled more fields in from the Graph API and converting places into geoJSON.
+
+**Thoughts:** The Graph API Explorer is letting me use a greater distance than what my code is allowed to use. Will need to look into Promises because figure when all the API calls are done before doing a final geoJSON conversion. Also need to figure out how filter out the false positives. Stuff in Brewerytown may not be a brewery, but come back in the results.
+
+**Link to work:** Due to the app_id and app_secret being in the code I'm not putting this to Github just yet.
 
 
 ### Day 0: February 30, 2016 (Example 1)
