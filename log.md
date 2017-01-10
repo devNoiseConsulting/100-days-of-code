@@ -45,7 +45,7 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 
 **Thoughts:** Had to skim through the docs a couple times to figure out how to get an access token. Using the Graph API Explorer to figure out what fields I need.
 
-**Link to work:** Due to the app_id and app_secret being in the code I'm not putting this to Github just yet.
+**Link to work:** [fbPlaceSearch](https://github.com/devNoiseConsulting/fbPlaceSearch)
 
 ### Day 6: January 8, 2017
 
@@ -53,7 +53,15 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 
 **Thoughts:** The Graph API Explorer is letting me use a greater distance than what my code is allowed to use. Will need to look into Promises because figure when all the API calls are done before doing a final geoJSON conversion. Also need to figure out how filter out the false positives. Stuff in Brewerytown may not be a brewery, but come back in the results.
 
-**Link to work:** Due to the app_id and app_secret being in the code I'm not putting this to Github just yet.
+**Link to work:** [fbPlaceSearch](https://github.com/devNoiseConsulting/fbPlaceSearch/commit/dd8397c405436ae9b62eb1bdb4edd8406a481cf2)
+
+### Day 7: January 9, 2017
+
+**Today's Progress:** Getting git repo setup for fbPlaceSearch. Getting from APP_ID and APP_SECRET from the environment variables.
+
+**Thoughts:** Always end up committing the code with the keys hard coded. Even though I was trying to avoid that this time. Ended up deleting the app and recreating it. Put the keys in a .env file. Couldn't get the `npm run setenv` to stick, dropping back to just sourcing the .env file. 
+
+**Link to work:** [fbPlaceSearch](https://github.com/devNoiseConsulting/fbPlaceSearch/commit/50a10c2b49520d602f8746eee3394d3b2a8cf513)
 
 
 ### Day 0: February 30, 2016 (Example 1)
