@@ -59,10 +59,17 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 
 **Today's Progress:** Getting git repo setup for fbPlaceSearch. Getting from APP_ID and APP_SECRET from the environment variables.
 
-**Thoughts:** Always end up committing the code with the keys hard coded. Even though I was trying to avoid that this time. Ended up deleting the app and recreating it. Put the keys in a .env file. Couldn't get the `npm run setenv` to stick, dropping back to just sourcing the .env file. 
+**Thoughts:** Always end up committing the code with the keys hard coded. Even though I was trying to avoid that this time. Ended up deleting the app and recreating it. Put the keys in a .env file. Couldn't get the `npm run setenv` to stick, dropping back to just sourcing the .env file.
 
 **Link to work:** [fbPlaceSearch](https://github.com/devNoiseConsulting/fbPlaceSearch/commit/50a10c2b49520d602f8746eee3394d3b2a8cf513)
 
+### Day 8: January 10, 2017
+
+**Today's Progress:** Worked on getting multiple searches to run concurrently. Started a Facebook page post script.
+
+**Thoughts:** Still don't seem to get all the places I expect. Maybe the API and not the code. Running into OAuth errors when trying to make a POST to my page's feed.
+
+**Link to work:** [fbPlaceSearch](https://github.com/devNoiseConsulting/fbPlaceSearch/commit/3b4ad67a6944682cb0a9aca83903f196011caebd)
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
