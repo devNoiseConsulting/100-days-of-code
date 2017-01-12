@@ -82,6 +82,18 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 * [Last commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/97a88065fdb918cb75120ab82f9156b171098300Â)
 * [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
+### Day 10: January 12, 2017
+
+**Today's Progress:** Added Bootstrap 4 to make the map page look nicer.
+
+**Thoughts:** Kept searching through the docs for things I knew I could do with Bootstrap 3. Seems I can still use the "small" class to scale down the text in the footer. I couldn't find that mentioned in the new docs. Since my layout is not that complex, still haven't hit to much on the use of Flexbox.
+
+**Link to work:**
+* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+* [Last commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/b0c7bdc33df4358ba2327e8da256da8da3692b01)
+* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
