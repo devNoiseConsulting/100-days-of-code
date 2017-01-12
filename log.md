@@ -71,6 +71,17 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 
 **Link to work:** [fbPlaceSearch](https://github.com/devNoiseConsulting/fbPlaceSearch/commit/3b4ad67a6944682cb0a9aca83903f196011caebd)
 
+### Day 9: January 11, 2017
+
+**Today's Progress:** Setup a repo for the Leaflet map page of my brewery visits. Created a simple Gulp build process for the site. Did some minor refactoring.
+
+**Thoughts:** Getting quicker on making a new repo. Put the past work in as separate commits. My javascript uses let and const instead of var. This basic part of ES2015 is screwing up the gulp-uglify module.
+
+**Link to work:**
+* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+* [Last commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/97a88065fdb918cb75120ab82f9156b171098300Â)
+* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
