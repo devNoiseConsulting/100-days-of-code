@@ -93,6 +93,16 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 * [Last commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/b0c7bdc33df4358ba2327e8da256da8da3692b01)
 * [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
+### Day 11: January 12, 2017
+
+**Today's Progress:** Added an code to use XMLHttpRequest if the Fetch API isn't available in the browser. (Looking at you Apple!) Minor tweaks to the UI around the buttons.
+
+**Thoughts:** I knew that the Fetch API didn't work everywhere. Moving to Bootstrap v4, made testing on mobile bring home that the map wasn't displaying breweries. Need to look into the margin and padding spacing for BootStrap more. Quick fix was to put the class on all the elements. Feels like they should inherit from the column or row div.
+
+**Link to work:**
+* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/3cc229781be9a61d282c93a3ea4d7778be04ce62)
+* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
