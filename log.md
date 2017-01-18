@@ -104,6 +104,29 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 * [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/3cc229781be9a61d282c93a3ea4d7778be04ce62)
 * [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
+### Day 12: January 16, 2017
+
+**Today's Progress:** Moved to clustered markers to make the map look less cluttered. Gulp task to download brewery list.
+
+**Thoughts:** Back from vacation, so I missed a few days. The cluster plugin was very easy to integrate into the code. Minor issue with the cluster CSS. GitHub outage last week, made having a local copy a good idea.
+
+**Link to work:**
+* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/316a910279d6c71d1b7ca5db52c6c8ff3cb1da3c)
+* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
+### Day 13: January 17, 2017
+
+**Today's Progress:** Started working on making myGeoBeerMap a Progressive Web App.
+
+**Thoughts:** Getting a manifest.json for myGeoBeerMap. Created an app icon and generated the various sizes. Modified the gulp tasks to copy the manifest and images.
+
+**Link to work:**
+* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/33e1a607457da7ab43ff4d98f7d42bf889139b13)
+* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
