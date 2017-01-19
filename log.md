@@ -126,6 +126,17 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 * [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/33e1a607457da7ab43ff4d98f7d42bf889139b13)
 * [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
+### Day 14: January 18, 2017
+
+**Today's Progress:** Swapped out the default css for the cluster markers with css that has a color scheme that matches the visited brewery color (#0047AB).
+
+**Thoughts:** When changing color schemes, you can fall down a rabbit hole. New cluster marker colors lead to changing the colors on the individual markers. This was done in the code as I didn't want to modify all the geoJSON files in the geoBeer repo.
+
+**Link to work:**
+* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/379f286e478aff0dc64f6a7a5f8787a7ea7b6254)
+* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
