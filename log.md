@@ -137,6 +137,17 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 * [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/379f286e478aff0dc64f6a7a5f8787a7ea7b6254)
 * [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
+### Day 15: January 19, 2017
+
+**Today's Progress:** Added Favicons and social media meta data. Changed the footer so that it would stick to the bottom of the browser. Tweaked the color and icon remapping.
+
+**Thoughts:** Bootstrap v4's container-fluid and padding were messing up the sticky footer. Facebook seems to have cached the og:image. Making it hard to test the new image size.
+
+**Link to work:**
+* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/e10c206ca5652f615ee073fcc6be7fc6e055914c)
+* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
