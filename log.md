@@ -148,6 +148,18 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 * [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/e10c206ca5652f615ee073fcc6be7fc6e055914c)
 * [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
+### Day 16: January 20, 2017
+
+**Today's Progress:** Revisited the padding/margins on the buttons. Move the form elements into an input-group.
+
+**Thoughts:** Not sure what I changed, but the padding/margins for the buttons are working. Before the buttons would be touching and looked wrong. So I have been using the mr-2 and mb-3 classes to space them apart. Tested out putting the buttons in a button group, be decide against it. Likewise, I tried toggle states on the buttons with the same conclusion.
+Changes the submit over to a button with the Font Awesome search icon. This caused me to rework the filterBreweries to handle a click event in addition to the submit event.
+
+**Link to work:**
+* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/254d06d81faac1a5360df9f1540940b377f6dca9)
+* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
