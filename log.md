@@ -160,6 +160,16 @@ Changes the submit over to a button with the Font Awesome search icon. This caus
 * [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/254d06d81faac1a5360df9f1540940b377f6dca9)
 * [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
+### Day 17: January 22, 2017
+
+**Today's Progress:** Wrote some small scripts to process the brewery files into a more neutral state.
+
+**Thoughts:** Added UUIDs to each of the locations a brewery might have. This should allow other users to identify where they have made brewery visits. I was able to extract my status and save it to a separate file. With this save, I can reset all the brewery locations to a default state. 
+
+**Link to work:**
+* [geoBeer](https://github.com/devNoiseConsulting/geoBeer/)
+* [Commit for the day](https://github.com/devNoiseConsulting/geoBeer/commit/b7b16e1e6acab7a58e295afdb05acef8a131c762)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
