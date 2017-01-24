@@ -164,12 +164,22 @@ Changes the submit over to a button with the Font Awesome search icon. This caus
 
 **Today's Progress:** Wrote some small scripts to process the brewery files into a more neutral state.
 
-**Thoughts:** Added UUIDs to each of the locations a brewery might have. This should allow other users to identify where they have made brewery visits. I was able to extract my status and save it to a separate file. With this save, I can reset all the brewery locations to a default state. 
+**Thoughts:** Added UUIDs to each of the locations a brewery might have. This should allow other users to identify where they have made brewery visits. I was able to extract my status and save it to a separate file. With this save, I can reset all the brewery locations to a default state.
 
 **Link to work:**
 * [geoBeer](https://github.com/devNoiseConsulting/geoBeer/)
 * [Commit for the day](https://github.com/devNoiseConsulting/geoBeer/commit/b7b16e1e6acab7a58e295afdb05acef8a131c762)
 
+### Day 18: January 23, 2017
+
+**Today's Progress:** Created a script that will generate the myBreweryList.geojson from my
+geobeer.json file in the myGeoBeerMap. Updated the package.json to have script command to run the generation. The gulpfile.js was modified to exec the script so the myBreweryList.geojson can be created from a task.
+
+**Thoughts:** This should allow other people to contribute breweries to the geoBeer repo with affecting my brewery visits. First time I added one of my github repositories as a dependency. Will need to look into how I version geoBeer so myGeoBeerMap will know to pull a newer version of the repository.
+
+**Link to work:**
+* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/e3ab0b280b4bc3ba07351392119c953f4b8f6e6e)
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
