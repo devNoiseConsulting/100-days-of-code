@@ -181,6 +181,19 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 * [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
 * [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/e3ab0b280b4bc3ba07351392119c953f4b8f6e6e)
 
+### Day 19: January 24, 2017
+
+**Today's Progress:** Added a Near Me radius marker to myGeoBeerMap to help identify the breweries that are close to you.
+
+**Thoughts:** Multiple clicks on the "Near Me" button would cycle through the different radii or turn the marker off. Simple error with resetting the radii index variable cause the first radius to be skipped after going though all the radii.
+
+**Link to work:**
+* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/ed38f129db1de1ea3f5fd2469f959d5c37b61391)
+* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
