@@ -192,6 +192,16 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 * [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/ed38f129db1de1ea3f5fd2469f959d5c37b61391)
 * [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
+### Day 20: January 25, 2017
+
+**Today's Progress:** When using the "Near Me" feature the map will also pan to the user's location. Tweaked the radius marker opacity. Fix a bug to prevent 2 radius markers being on the map.
+
+**Thoughts:** Seems that the navigator.geolocation.watchPosition would be called multiple times or again when returning to the tab. This would cause the code to lose reference to the radius marker so it couldn't be removed.
+
+**Link to work:**
+* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/6515fdc49a0dac96e6b6f5de2b5959e803237e62)
+* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
 
 ### Day 0: February 30, 2016 (Example 1)
