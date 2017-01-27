@@ -203,6 +203,14 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 * [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/6515fdc49a0dac96e6b6f5de2b5959e803237e62)
 * [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
+### Day 21: January 26, 2017
+
+**Today's Progress:** Signed up with freeCodeCamp and started working on the Front End Development Certification. Ran through the HTML5 and CSS section.
+
+**Thoughts:** Very similar to the Codecademy work flow. Mostly a review of the HTML that I already know.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
