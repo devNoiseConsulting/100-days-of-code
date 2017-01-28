@@ -212,6 +212,16 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
+### Day 22: January 27, 2017
+
+**Today's Progress:** Finished more freeCodeCamp challenges (BootStrap and jQuery) and completed the first two projects.
+
+**Thoughts:** I have used BootStrap for a couple projects, and have used version 4 on myGeoBeerMap. I touch on jQuery a bit, but have less experience with it. Most modern browser can do most of the same things with vanilla javascript. Threw up some minimal projects in CodePen so I could move on.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
