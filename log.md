@@ -221,6 +221,24 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
+### Day 23: January 28, 2017
+
+**Today's Progress:** Started the freeCodeCamp challenges for Basic Javascript.
+
+**Thoughts:** Lots of similar concepts I learned in other languages.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+### Day 24: January 29, 2017
+
+**Today's Progress:** Finished the freeCodeCamp challenges for Basic Javascript and started/finished the Object Oriented and Functional Programming challenges.
+
+**Thoughts:** Ran through a lot of stuff I was familar with. Since mode coding was involved, I did have to slow down and make sure I knew what was required. 
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
