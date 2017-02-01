@@ -234,11 +234,31 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 
 **Today's Progress:** Finished the freeCodeCamp challenges for Basic Javascript and started/finished the Object Oriented and Functional Programming challenges.
 
-**Thoughts:** Ran through a lot of stuff I was familar with. Since mode coding was involved, I did have to slow down and make sure I knew what was required. 
+**Thoughts:** Ran through a lot of stuff I was familar with. Since mode coding was involved, I did have to slow down and make sure I knew what was required.
 
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
+### Day 25: January 30, 2017
+
+**Today's Progress:** Started the freeCodeCamp challenges for Basic Algorithms.
+
+**Thoughts:** These are taking a bit more time to complete. Dropped back to coding in vim so I could run the code through node.js on the command line.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+### Day 26: January 31, 2017
+
+**Today's Progress:** Finished the freeCodeCamp challenges for Basic Algorithms. Then went back to myGeoBeerMap to added a bounding box to search results.
+
+**Thoughts:** Coded the algorithms in a manner I'm used to. Later in the day I thought I could used a .split().map().join() instead of a for loop. After using the search on myGeoBeerMap, I felt should center around and show all the results. That pushed me into using the .reduce() function to get the data I needed.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/f4c6d333c6df23e2b7b8796fd4c5baadb4d42b0b)
+* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
