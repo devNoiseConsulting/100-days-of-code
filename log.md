@@ -260,6 +260,19 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 * [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/f4c6d333c6df23e2b7b8796fd4c5baadb4d42b0b)
 * [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
+
+### Day 27: February 1, 2017
+
+**Today's Progress:** Finished the freeCodeCamp challenges for JSON and API. Completed on of the Intermediate Front End Development Projects. Also added a bounding box feature to the Near Me link for myGeoBeerMap.
+
+**Thoughts:** Felt I spent to much time searching for a quote API to use instead of actually coding the project. For myGeoBeerMap, kept tweaking the calculation of the bounding box to figure out best fit. 
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/28c306c005fea2d01ac170b04751ec5fcf44094f)
+* [breweries.flynnmj.org](https://breweries.flynnmj.org/)
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
