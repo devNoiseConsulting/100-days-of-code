@@ -294,6 +294,16 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 * [CodePen](http://codepen.io/_dev_noise/pen/qRYpRp)
 
+### Day 30: February 4, 2017
+
+**Today's Progress:** Completed the fourth of the Intermediate Front End Development Projects.
+
+**Thoughts:** Would have been nice if I could have request all the information in one call instead of 2x. Since I couldn't figure out when all the API calls were done, manipulated the DOM (2x-1) more times than I should have. Went with vanilla JS, but that means my project won't work in Safari. Presentation could be a little better, but I prefer to focus on the functionality.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [CodePen](http://codepen.io/_dev_noise/pen/rjKxpj)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
