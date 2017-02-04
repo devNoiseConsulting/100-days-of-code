@@ -284,6 +284,16 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 * [CodePen](http://codepen.io/_dev_noise/pen/ZLxVKe)
 
+### Day 29: February 3, 2017
+
+**Today's Progress:** Completed the third of the Intermediate Front End Development Projects.
+
+**Thoughts:** Had a specific API to use for this project which was nice. Unfortunately, the docs seemed a bit weak. My query still came was cribbed from a search result. Hit a CORS issue with my search, found the solution in the freeCodeCamp forums. Safari is a semi modern browser. Apple needs to get on the ball and implement some of the newer features (the fetch API and template literals come to mind).
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [CodePen](http://codepen.io/_dev_noise/pen/qRYpRp)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
