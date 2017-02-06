@@ -304,6 +304,15 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 * [CodePen](http://codepen.io/_dev_noise/pen/rjKxpj)
 
+### Day 31: February 5, 2017
+
+**Today's Progress:** Completed seven of the Intermediate Algorithm challenges.
+
+**Thoughts:** Some good challenges to tackle today. To keep the algorithm for the roman numeral challenge simple I made array for translation hold my edge cases. That way I didn't have to test for them. Also went with regex for the pig latin challenge. Think that made it easier to determine what type of translation I needed to perform.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
