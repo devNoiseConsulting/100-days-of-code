@@ -313,6 +313,15 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
+### Day 32: February 6, 2017
+
+**Today's Progress:** Completed another seven of the Intermediate Algorithm challenges.
+
+**Thoughts:** These challenges get me thinking. Always need to test. An off by one bug showed up a couple times today. 
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
