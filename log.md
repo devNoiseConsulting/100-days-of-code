@@ -317,7 +317,16 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 
 **Today's Progress:** Completed another seven of the Intermediate Algorithm challenges.
 
-**Thoughts:** These challenges get me thinking. Always need to test. An off by one bug showed up a couple times today. 
+**Thoughts:** These challenges get me thinking. Always need to test. An off by one bug showed up a couple times today.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+### Day 33: February 7, 2017
+
+**Today's Progress:** Completed the rest of the Intermediate Algorithm challenges.
+
+**Thoughts:** The Streamroller challenge was the toughest challenge yet. Tried to go with recursion, but somehow managed to lose the 2nd element in the array. After searching to forums, found some hints that pointed me at using Array.reduce to come up with a solution. A search also turned up parseInt(x, 2) that help make quick work of the binary string to normal string. 
 
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
