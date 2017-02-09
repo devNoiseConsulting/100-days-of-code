@@ -326,7 +326,16 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 
 **Today's Progress:** Completed the rest of the Intermediate Algorithm challenges.
 
-**Thoughts:** The Streamroller challenge was the toughest challenge yet. Tried to go with recursion, but somehow managed to lose the 2nd element in the array. After searching to forums, found some hints that pointed me at using Array.reduce to come up with a solution. A search also turned up parseInt(x, 2) that help make quick work of the binary string to normal string. 
+**Thoughts:** The Streamroller challenge was the toughest challenge yet. Tried to go with recursion, but somehow managed to lose the 2nd element in the array. After searching to forums, found some hints that pointed me at using Array.reduce to come up with a solution. A search also turned up parseInt(x, 2) that help make quick work of the binary string to normal string.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+### Day 34: February 8, 2017
+
+**Today's Progress:** Completed three of the Advanced Algorithm challenges.
+
+**Thoughts:** I had to work at these challenges, but they were more straight forward than Streamroller. The symmetric difference took a couple tries to get right. Had to dedup the numbers in the array before attempting to figure out the symmetric difference. The cash register was a bit like the roman numerial challenge. Start with the highest currency and go down to make the change.
 
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
