@@ -340,6 +340,15 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
+### Day 35: February 9, 2017
+
+**Today's Progress:** Completed three more of the Advanced Algorithm challenges.
+
+**Thoughts:** The Inventory Update challenge was pretty straight forward. Just had to go back and add an sort to the inventory. The No repeats please challenge was hard. Tried to go at it by calculating the number of permutations. Search for some help and found Heap's algorithm. The brute force method solved it. The Friendly Date Ranges challenge wasn't to bad. Though I had to keep tweaking the test cases. Seems like I had to make exceptions for the year 2016.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
