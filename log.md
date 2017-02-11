@@ -349,6 +349,15 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
+### Day 36: February 10, 2017
+
+**Today's Progress:** Finished the Advanced Algorithm challenges.
+
+**Thoughts:** All pretty straight forward chanllenges today. The instanceof part of the Make a Person challenge had me rework my solution. For Map the Debris challenge, I pulled the formula from the linked Wikipedia page. Forgot to add Earth's radius and round the answer before I passed the challenge. The Pairwise challenge had some hurdles to get over. Had to revise how I was tracking the used indicies and also make sure I wasn't using the same index for both parts of the sum.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
