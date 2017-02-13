@@ -358,6 +358,26 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
+### Day 37: February 11, 2017
+
+**Today's Progress:** Finished the first Advanced Front End Development Projects. Have a working JavaScript Calculator.
+
+**Thoughts:** Built with Vanilla JavaScript and BootStrap. Took a little bit of time to get it all wired up, but was mostly straight forward. Was trying to convert the number from a string value to a numerical value when the user clicked on a number button. To avoid errors, this conversion was done when a math operator was clicked. The other big bug was handling multiple presses on the equals button. Put in some checks to prevent the register values from becoming corrupted. Converting null to a int or float would result in NaN.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [CodePen](http://codepen.io/_dev_noise/pen/MJZgbM)
+
+### Day 38: February 12, 2017
+
+**Today's Progress:** Finished the second Advanced Front End Development Projects. Still can't pronounce pomodoro.
+
+**Thoughts:** Built with Vanilla JavaScript and BootStrap. Working with the Date object can be a pain. Bit of effort to get the clock display to switch between the two timers. Can't use the reduce function on a NodList and had to drop back to a forEach. Also need to clear the timeout so that I didn't end up with multiple timeouts running.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [CodePen](http://codepen.io/_dev_noise/pen/MJZryr)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
