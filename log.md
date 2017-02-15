@@ -379,6 +379,27 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 * [CodePen](http://codepen.io/_dev_noise/pen/MJZryr)
 
 
+### Day 39: February 13, 2017
+
+**Today's Progress:** Made a Tic Tac Toe game to finished the third Advanced Front End Development Project.
+
+**Thoughts:** Minimal UI using BootStrap. Getting the UI wired up is getting fairly straight forward. How to handle playing was a bit harder. Trying to get the AI portion of the game working was hard. Went through a couple revisions to figure out all the conditions I wanted to check for to figure out the best square. Had to tack on some code to just pick a square if there is no best square.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [CodePen](http://codepen.io/_dev_noise/pen/dNwLNE)
+
+### Day 40: February 14, 2017
+
+**Today's Progress:** Started on the Simon Game for the fourth Advanced Front End Development Project.
+
+**Thoughts:** More BootStrap for the UI and Vanilla JavaScript. Tried to use some libraries to handle a toggle switch. UI looked good, but couldn't get click events to get to my functions. Dropped back to using button groups and some cutom Javascript to add/remove classes to perform the toggle. Game squares will change color and play a sound.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
