@@ -399,6 +399,16 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 * [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
 
+### Day 41: February 15, 2017
+
+**Today's Progress:** More work on the Simon Game for the fourth Advanced Front End Development Project.
+
+**Thoughts:** Mostly wiring up the UI to the JavaScript. To test, I created a mock sequence to see how playing the sequence would work. Have a stub function to check the players sequence to the computer's. This is most likely where my work will pick up tomorrow. Found myself trying to make sure I use the reduce and forEach functions on an array instead of a plain for loop.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
