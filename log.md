@@ -409,6 +409,26 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 * [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
 
+### Day 42: February 15, 2017
+
+**Today's Progress:** Focused on the sequence logic on the Simon Game for the fourth Advanced Front End Development Project. A little bit of color tweaking for the UI.
+
+**Thoughts:** The sequence check is working. Have the code adding a new square for the sequence. Will play the sequence again if a wrong square is pressed. Don't seem to have an error sound to play. Need to add some code to determine if the user has won the game.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
+
+### Day 43: February 16, 2017
+
+**Today's Progress:** Finished the Simon Game for the fourth Advanced Front End Development Project. That means I've completed the course and received freeCodeCamp's Front End Development Certification.
+
+**Thoughts:** Added a lot of the condition checks(victory, strict mode,game on). Also refactored a some code into their own functions. This was for duplicate code and help clean some functions up.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
