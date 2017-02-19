@@ -409,7 +409,7 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 * [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
 
-### Day 42: February 15, 2017
+### Day 42: February 16, 2017
 
 **Today's Progress:** Focused on the sequence logic on the Simon Game for the fourth Advanced Front End Development Project. A little bit of color tweaking for the UI.
 
@@ -419,7 +419,7 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 * [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
 
-### Day 43: February 16, 2017
+### Day 43: February 17, 2017
 
 **Today's Progress:** Finished the Simon Game for the fourth Advanced Front End Development Project. That means I've completed the course and received freeCodeCamp's Front End Development Certification.
 
@@ -428,6 +428,15 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 * [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
+
+### Day 44: February 18, 2017
+
+**Today's Progress:** Just a couple challenges at freeCodeCamp. Big one was doing the how-to-npm challenge.
+
+**Thoughts:** Spent a lot of time trying to get Magento setup on my Ubuntu server. So to get my hour in, I started some of the challenges for the Back End Development Certification. Mostly review, but the tag stuff was something I haven't used before.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
 
 ### Day 0: February 30, 2016 (Example 1)
