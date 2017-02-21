@@ -447,6 +447,15 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
+### Day 46: February 20, 2017
+
+**Today's Progress:** Finished the Continue working with Nodejs Servers challenge at freeCodeCamp.
+
+**Thoughts:** Another light day, not as much coding as I would have liked. Feel like I learn how to use code is by looking at examples. Looking at the Node docs didn't always help me.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
