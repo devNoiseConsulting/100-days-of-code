@@ -456,6 +456,15 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
+### Day 47: February 21, 2017
+
+**Today's Progress:** Completed freeCodeCamp's Finish working with Nodejs Servers challenge. Also worked on getting Magento installed.
+
+**Thoughts:** Had to reinstall Magento and then had to fix the Apache2 config. Finished the learnyounode tasks. Mostly the HTTP server calls, tripped up when to set the response object.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
