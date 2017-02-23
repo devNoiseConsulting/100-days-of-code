@@ -465,6 +465,15 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
+### Day 48: February 22, 2017
+
+**Today's Progress:** Progressed through the first six sections for Unit 1 of Fundamentals of Magento 2 Development v2.1. Wrote a shell script to help me install Magento in case it gets screwed up.
+
+**Thoughts:** Some of the exercise seem to fubar my install of Magento. I can't seem to find the exercise guide. All I have is the solutions guide. Hard for me to know exactly what the exercise was. Also the exercises seem to lack consistency.
+
+**Link to work:**
+* [Magento Install](https://magento.home.ts/)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
