@@ -437,6 +437,7 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [Cloud 9](https://c9.io/devnoise/npm)
 
 ### Day 45: February 19, 2017
 
@@ -446,6 +447,7 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [Cloud 9](https://c9.io/devnoise/learnyournode)
 
 ### Day 46: February 20, 2017
 
@@ -455,6 +457,7 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [Cloud 9](https://c9.io/devnoise/learnyournode)
 
 ### Day 47: February 21, 2017
 
@@ -464,6 +467,7 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [Cloud 9](https://c9.io/devnoise/learnyournode)
 
 ### Day 48: February 22, 2017
 
@@ -473,6 +477,37 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 
 **Link to work:**
 * [Magento Install](https://magento.home.ts/)
+* [mkMagento.sh](https://gist.github.com/devNoiseConsulting/ea5e3eabf7fb8daf47441168a9f7bd90)
+
+### Day 49: February 23, 2017
+
+**Today's Progress:** Started working on Build Web Apps with Expressjs. Also made a gist to display my magento install script.
+
+**Thoughts:** Got through the first challenge and then hit a wall. The Jade challenge isn't working. Peaked at the solution and my code is similar. Somehow Jade didn't get installed. Went with the Read-Search-Ask to find a solution. Searching didn't give offer much. Tried the gitter without success. Created a new topic on the forum. Waiting to hear back. May also just run expresswork on my laptop.
+
+**Link to work:**
+* [Cloud 9](https://c9.io/devnoise/express)
+
+### Day 50: February 24, 2017
+
+**Today's Progress:** Forked redrock/expressworks and merge from the azat-co/expressworks. Created an GutHub issue to see if expressworks can be updated.
+
+**Thoughts:** After setting a remote azat-co/expressworks, I was able to do the pull and merge. Ended up with 1 conflict. Apparently since freeCodeCamp forked expressworks for work with Cloud 9, azat-co have updated the code to match most of the timeouts in the exercises. The stylish_css exercise was the only conflict because that exercise was increased to 2000 milliseconds. Since it looked like azat-co/exporessworks should be compatible, I opened an issue with fcc-expressworks to change when they get expressworks from.
+
+**Link to work:**
+* [devNoiseConsulting/expressworks](https://github.com/devNoiseConsulting/expressworks)
+* [fcc-expressworks issue](https://github.com/freeCodeCamp/fcc-expressworks/issues/8)
+
+### Day 51: February 25, 2017
+
+**Today's Progress:** Finished freeCodeCamp's Build Web Apps with Expressjs. Attended Philly.Net's Code Camp 2017.1.
+
+**Thoughts:** Created a new workspace on Cloud 9 and use the official expressworks module. Still had to install the Pug module to the Jade/Pug challenge to work. Had issues with the last two challenges as the JSON output was multi line and the exercise expected it on a single line. Tweaking the response object to use JSON.stringify solved the problem.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [Cloud 9](https://c9.io/devnoise/expressworks)
+* [Code Camp 2017.1](https://www.meetup.com/Philly-NET/events/237291594/)
 
 
 ### Day 0: February 30, 2016 (Example 1)
