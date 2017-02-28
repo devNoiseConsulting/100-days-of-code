@@ -509,6 +509,30 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 * [Cloud 9](https://c9.io/devnoise/expressworks)
 * [Code Camp 2017.1](https://www.meetup.com/Philly-NET/events/237291594/)
 
+### Day 52: February 26, 2017
+
+**Today's Progress:** Completed freeCodeCamp's Save your Code Revisions Forever with Git.
+
+**Thoughts:** A moderate user of git, then git-it exercises were pretty easy. In fact I've already completed git-it once before.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [patchwork](https://github.com/devNoiseConsulting/patchwork)
+* [Cloud 9](https://ide.c9.io/devnoise/git-it)
+
+### Day 53: February 27, 2017
+
+**Today's Progress:** Worked on freeCodeCamp's Store Data in MongoDB and completed
+Get Set for our API Development Projects
+
+**Thoughts:** learnyoumongo is not fully baked. It's a bit hard to figure out what needs to be done. The last two exercises weren't finished because mongodb didn't seem to get initialized with the right values. Also had a problem with the module having an hard error instead of catching it because the function done was not defined.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [Cloud 9](https://ide.c9.io/devnoise/learnyoumongo)
+* [Cloud 9](https://ide.c9.io/devnoise/camper-api-project)
+* [learnyoumongo issue](https://github.com/evanlucas/learnyoumongo/issues/55)
+* [freeCodeCamp forum post](https://forum.freecodecamp.com/t/learnyoumongo-remove-exercise-broken/91859)
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
