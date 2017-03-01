@@ -523,7 +523,7 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 ### Day 53: February 27, 2017
 
 **Today's Progress:** Worked on freeCodeCamp's Store Data in MongoDB and completed
-Get Set for our API Development Projects
+Get Set for our API Development Projects.
 
 **Thoughts:** learnyoumongo is not fully baked. It's a bit hard to figure out what needs to be done. The last two exercises weren't finished because mongodb didn't seem to get initialized with the right values. Also had a problem with the module having an hard error instead of catching it because the function done was not defined.
 
@@ -533,6 +533,17 @@ Get Set for our API Development Projects
 * [Cloud 9](https://ide.c9.io/devnoise/camper-api-project)
 * [learnyoumongo issue](https://github.com/evanlucas/learnyoumongo/issues/55)
 * [freeCodeCamp forum post](https://forum.freecodecamp.com/t/learnyoumongo-remove-exercise-broken/91859)
+
+### Day 54: February 28, 2017
+
+**Today's Progress:** Completed freeCodeCamp's Timestamp Microservice project.
+
+**Thoughts:** This was pretty straight forward and reference some of the code from the expressworks exercises. Using toLocaleDateString allowed me to use Vanilla Javascript and not need any custom code for formatting. 
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [Cloud 9](https://ide.c9.io/devnoise/camper-api-project)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
