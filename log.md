@@ -555,6 +555,19 @@ Get Set for our API Development Projects.
 * [Magic Square Gist](https://gist.github.com/devNoiseConsulting/24c767482638fefa4c6ed8dc4b3d1bcc)
 * [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
 
+### Day 56: March 2, 2017
+
+**Today's Progress:** Completed freeCodeCamp's Request Header Parser Microservice. Also deployed both the microservices that I've created so far to Heroku.
+
+**Thoughts:** The Request Header Parser was pretty basic, just pulling some values out of the request object. Got the software by spliting the user-agent string. Found an answer on StackOverflow for getting the IP address. For Heroku, Profile didn't seem to be enough. Adding a "start" and "engine" entry to package.json seem to get things going. 
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [timestamp microservice](https://pure-river-38627.herokuapp.com/)
+* [timestamp repo](https://github.com/devNoiseConsulting/timestamp)
+* [Request Header Parser Microservice](https://morning-headland-13993.herokuapp.com/)
+* [Request Header Parser repo](https://github.com/devNoiseConsulting/Request-Header-Parser)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
