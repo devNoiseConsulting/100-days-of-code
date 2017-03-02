@@ -538,11 +538,22 @@ Get Set for our API Development Projects.
 
 **Today's Progress:** Completed freeCodeCamp's Timestamp Microservice project.
 
-**Thoughts:** This was pretty straight forward and reference some of the code from the expressworks exercises. Using toLocaleDateString allowed me to use Vanilla Javascript and not need any custom code for formatting. 
+**Thoughts:** This was pretty straight forward and reference some of the code from the expressworks exercises. Using toLocaleDateString allowed me to use Vanilla Javascript and not need any custom code for formatting.
 
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [timestamp repo](https://github.com/devNoiseConsulting/timestamp)
 * [Cloud 9](https://ide.c9.io/devnoise/camper-api-project)
+
+### Day 55: March 1, 2017
+
+**Today's Progress:** Worked a function to validate a magic square as part of a daily programmer challenge. Also updated the myBreweries.js to generate a brewery list file that only includes the brewers that are in the geobeer.json data file.
+
+**Thoughts:** Taking a light day and worked on some features for someone who wants to fork myGeoBeerMap.
+
+**Link to work:**
+* [Magic Square Gist](https://gist.github.com/devNoiseConsulting/24c767482638fefa4c6ed8dc4b3d1bcc)
+* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
 
 
 ### Day 0: February 30, 2016 (Example 1)
