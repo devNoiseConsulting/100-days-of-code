@@ -559,7 +559,7 @@ Get Set for our API Development Projects.
 
 **Today's Progress:** Completed freeCodeCamp's Request Header Parser Microservice. Also deployed both the microservices that I've created so far to Heroku.
 
-**Thoughts:** The Request Header Parser was pretty basic, just pulling some values out of the request object. Got the software by spliting the user-agent string. Found an answer on StackOverflow for getting the IP address. For Heroku, Profile didn't seem to be enough. Adding a "start" and "engine" entry to package.json seem to get things going. 
+**Thoughts:** The Request Header Parser was pretty basic, just pulling some values out of the request object. Got the software by spliting the user-agent string. Found an answer on StackOverflow for getting the IP address. For Heroku, Profile didn't seem to be enough. Adding a "start" and "engine" entry to package.json seem to get things going.
 
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
@@ -567,6 +567,15 @@ Get Set for our API Development Projects.
 * [timestamp repo](https://github.com/devNoiseConsulting/timestamp)
 * [Request Header Parser Microservice](https://morning-headland-13993.herokuapp.com/)
 * [Request Header Parser repo](https://github.com/devNoiseConsulting/Request-Header-Parser)
+
+### Day 57: March 3, 2017
+
+**Today's Progress:** Worked on another daily programmer challenged from the Phillydev slack. Trying to find best price per square foot from a csv file.
+
+**Thoughts:** Letting people know that parsing csv is evil. Luckily the data was clean and simple. Wrote a lot of functions for filter and reduce. Would be nice if I could bind some variables to the functions. If I knew how to do that, then I could reduce the number of functions I wrote.
+
+**Link to work:**
+* [Best price per square foot Gist](https://gist.github.com/devNoiseConsulting/2d6737aa0a2f7411794e04d9e6916355)
 
 
 ### Day 0: February 30, 2016 (Example 1)
