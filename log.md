@@ -577,6 +577,15 @@ Get Set for our API Development Projects.
 **Link to work:**
 * [Best price per square foot Gist](https://gist.github.com/devNoiseConsulting/2d6737aa0a2f7411794e04d9e6916355)
 
+### Day 58: March 4, 2017
+
+**Today's Progress:** Started work on freeCodeCamp's URL Shortener Microservice.
+
+**Thoughts:** Signed up with mLab for the projects storage portion. Verification email took a while to reach my inbox. Will work some more on it tomorrow. Get the repo setup and stubbed out the three routes that the microservice will have. 
+
+**Link to work:**
+* [URL Shortener repo](https://github.com/devNoiseConsulting/URL-Shortener)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
