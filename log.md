@@ -581,9 +581,20 @@ Get Set for our API Development Projects.
 
 **Today's Progress:** Started work on freeCodeCamp's URL Shortener Microservice.
 
-**Thoughts:** Signed up with mLab for the projects storage portion. Verification email took a while to reach my inbox. Will work some more on it tomorrow. Get the repo setup and stubbed out the three routes that the microservice will have. 
+**Thoughts:** Signed up with mLab for the projects storage portion. Verification email took a while to reach my inbox. Will work some more on it tomorrow. Get the repo setup and stubbed out the three routes that the microservice will have.
 
 **Link to work:**
+* [URL Shortener repo](https://github.com/devNoiseConsulting/URL-Shortener)
+
+### Day 59: March 5, 2017
+
+**Today's Progress:** Finished working on freeCodeCamp's URL Shortener Microservice and deployed to Heroku.
+
+**Thoughts:** Got the MongoDB setup on mLab. Searched for examples of how integrate MongoDB into an express app. Getting the app deployed to Heroku is getting easier, though I did forget to setup the env variables before testing the app.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [URL Shortener microservice](https://protected-dawn-47162.herokuapp.com/)
 * [URL Shortener repo](https://github.com/devNoiseConsulting/URL-Shortener)
 
 
