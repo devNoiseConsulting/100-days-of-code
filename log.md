@@ -597,6 +597,15 @@ Get Set for our API Development Projects.
 * [URL Shortener microservice](https://protected-dawn-47162.herokuapp.com/)
 * [URL Shortener repo](https://github.com/devNoiseConsulting/URL-Shortener)
 
+### Day 60: March 6, 2017
+
+**Today's Progress:** Started working on freeCodeCamp's Image Search Abstraction Layer project and deployment to Heroku.
+
+**Thoughts:** Spent a lot of time trying to figure which search api to use for this project. Going with Google Custom Search Engine after reading some posts on the freeCodeCamp forum. The rest of the work was just basic project/repo setup.
+
+**Link to work:**
+* [Image Search Abstraction Layer](https://vast-sea-39536.herokuapp.com/)
+* [Image Search Abstraction Layer repo](https://github.com/devNoiseConsulting/Image-Search-Abstraction-Layer)
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
