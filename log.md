@@ -611,12 +611,24 @@ Get Set for our API Development Projects.
 
 **Today's Progress:** Finished and deployed freeCodeCamp's Image Search Abstraction Layer.
 
-**Thoughts:** With all the bits setup yesterday, today really focused on getting the code written. Reused a bit of code from the URL Shortener to get the mondoDB going. Since the Google Custom Search Engine API call used HTTPS we needed to require('https'). 
+**Thoughts:** With all the bits setup yesterday, today really focused on getting the code written. Reused a bit of code from the URL Shortener to get the mondoDB going. Since the Google Custom Search Engine API call used HTTPS we needed to require('https').
 
 **Link to work:**
 * [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 * [Image Search Abstraction Layer](https://vast-sea-39536.herokuapp.com/)
 * [Image Search Abstraction Layer repo](https://github.com/devNoiseConsulting/Image-Search-Abstraction-Layer)
+
+### Day 62: March 8, 2017
+
+**Today's Progress:** With the completion of the File Metadata Microservice, I've finished all of freeCodeCamp's API Projects.
+
+**Thoughts:** Grinding through these projects. Other than figuring out how to handle the file upload, this was an easy project to work on. Was going to make the static index page fancy with some BootStrap v4, but ditched it. Ran into content placement issues with a navbar. Also, I've run out of free apps on Heroku and had to add a credit card to be able to add more apps to the free dynos.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [File Metadata Microservice](https://pacific-wave-24494.herokuapp.com/)
+* [File Metadata Microservice repo](https://github.com/devNoiseConsulting/File-Metadata-Microservice)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
