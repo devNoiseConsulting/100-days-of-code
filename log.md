@@ -607,6 +607,17 @@ Get Set for our API Development Projects.
 * [Image Search Abstraction Layer](https://vast-sea-39536.herokuapp.com/)
 * [Image Search Abstraction Layer repo](https://github.com/devNoiseConsulting/Image-Search-Abstraction-Layer)
 
+### Day 61: March 7, 2017
+
+**Today's Progress:** Finished and deployed freeCodeCamp's Image Search Abstraction Layer.
+
+**Thoughts:** With all the bits setup yesterday, today really focused on getting the code written. Reused a bit of code from the URL Shortener to get the mondoDB going. Since the Google Custom Search Engine API call used HTTPS we needed to require('https'). 
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [Image Search Abstraction Layer](https://vast-sea-39536.herokuapp.com/)
+* [Image Search Abstraction Layer repo](https://github.com/devNoiseConsulting/Image-Search-Abstraction-Layer)
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
