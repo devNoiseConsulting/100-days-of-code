@@ -629,6 +629,14 @@ Get Set for our API Development Projects.
 * [File Metadata Microservice](https://pacific-wave-24494.herokuapp.com/)
 * [File Metadata Microservice repo](https://github.com/devNoiseConsulting/File-Metadata-Microservice)
 
+### Day 63: March 9, 2017
+
+**Today's Progress:** Worked on a daily programming challenge from the PhillyDev Slack.
+
+**Thoughts:** The Zig Zag sequence is a tough problem. Came up a solution that solved all but one of the test sequences. Ported a java solution to javascript and made some optimizations.
+
+**Link to work:**
+* [Longest Zig Zag Gist](https://gist.github.com/devNoiseConsulting/e93f666c87f49dbfc2f09c24d5426f6d)
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
