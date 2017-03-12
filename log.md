@@ -638,6 +638,25 @@ Get Set for our API Development Projects.
 **Link to work:**
 * [Longest Zig Zag Gist](https://gist.github.com/devNoiseConsulting/e93f666c87f49dbfc2f09c24d5426f6d)
 
+### Day 64: March 10, 2017
+
+**Today's Progress:** Setting up a Woo Commerce site. Worked on a daily programming challenge from the PhillyDev Slack.
+
+**Thoughts:** Daily programming challenge was pretty straight forward today. Trying to learn some WordPress and Woo Commerce.
+
+**Link to work:**
+* [Brickyard Weapons](https://brickyardweapons.flynnmj.org/)
+* [Reverse Factorial Gist](https://gist.github.com/devNoiseConsulting/f6b3b4bfba55d1275ab65f226542b26b)
+
+### Day 65: March 11, 2017
+
+**Today's Progress:** Build the markdown previewer, unfortunately didn't use React.
+
+**Thoughts:** Thought I'd drop back to the Data Visualization tasks. Unfortunately, they have a lot of coming soon sections. Still need a decent introduction to React before I can start using it. Dropped back to just using Vanillia JavaScript to complete the challenge. Not marking it done on freeCodeCamp.
+
+**Link to work:**
+* [Markdown Previewer](http://codepen.io/_dev_noise/pen/xqdWOq)
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
