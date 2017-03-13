@@ -657,6 +657,16 @@ Get Set for our API Development Projects.
 **Link to work:**
 * [Markdown Previewer](http://codepen.io/_dev_noise/pen/xqdWOq)
 
+### Day 66: March 12, 2017
+
+**Today's Progress:** Learning some ReactJS at Codecademy and got 2 achievements.
+
+**Thoughts:** Starting to look into ReactJS. Moved over to Codecademy since freeCodeCamp is still working on a ReactJS challenges. 
+
+**Link to work:**
+* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
