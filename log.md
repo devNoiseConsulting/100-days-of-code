@@ -661,7 +661,16 @@ Get Set for our API Development Projects.
 
 **Today's Progress:** Learning some ReactJS at Codecademy and got 2 achievements.
 
-**Thoughts:** Starting to look into ReactJS. Moved over to Codecademy since freeCodeCamp is still working on a ReactJS challenges. 
+**Thoughts:** Starting to look into ReactJS. Moved over to Codecademy since freeCodeCamp is still working on a ReactJS challenges.
+
+**Link to work:**
+* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+
+### Day 67: March 13, 2017
+
+**Today's Progress:** Learning some ReactJS at Codecademy and got 3 achievements.
+
+**Thoughts:** Continuing with learning react. I get how it works, but it is a but strange to put html in my JavaScript. Tend to prefer the Angular way and just put bindings on my HTML to hook into my Javascript.
 
 **Link to work:**
 * [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
