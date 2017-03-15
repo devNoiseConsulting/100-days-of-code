@@ -659,7 +659,7 @@ Get Set for our API Development Projects.
 
 ### Day 66: March 12, 2017
 
-**Today's Progress:** Learning some ReactJS at Codecademy and got 2 achievements.
+**Today's Progress:** Learning some ReactJS at Codecademy and got 2 badges.
 
 **Thoughts:** Starting to look into ReactJS. Moved over to Codecademy since freeCodeCamp is still working on a ReactJS challenges.
 
@@ -668,9 +668,18 @@ Get Set for our API Development Projects.
 
 ### Day 67: March 13, 2017
 
-**Today's Progress:** Learning some ReactJS at Codecademy and got 3 achievements.
+**Today's Progress:** Learning some ReactJS at Codecademy and got 3 badges.
 
 **Thoughts:** Continuing with learning react. I get how it works, but it is a but strange to put html in my JavaScript. Tend to prefer the Angular way and just put bindings on my HTML to hook into my Javascript.
+
+**Link to work:**
+* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+
+### Day 68: March 14, 2017
+
+**Today's Progress:** Completed Learn ReactJS: Part I at Codecademy and got 3 badges.
+
+**Thoughts:** More hands on work with ReactJS. Really need a shortcut for document.getElementById().
 
 **Link to work:**
 * [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
