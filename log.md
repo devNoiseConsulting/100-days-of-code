@@ -684,6 +684,16 @@ Get Set for our API Development Projects.
 **Link to work:**
 * [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
 
+### Day 69: March 15, 2017
+
+**Today's Progress:** Started Learn ReactJS: Part II at Codecademy and got 3 badges. Worked on a daily programming challenge from the PhillyDev Slack.
+
+**Thoughts:** Reviewing concepts learned in Part II, but also applying React design patterns. The Combinatorial Sum was tricky to start and my initial attempt was scrapped. Though in both attempts I went for a brute force method to generate all the combinations.
+
+**Link to work:**
+* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+* [Finding Combinatorial Sums Gist](https://gist.github.com/devNoiseConsulting/9efde9d55cca8e99e80242bca9ed7366)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
