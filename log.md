@@ -694,6 +694,16 @@ Get Set for our API Development Projects.
 * [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
 * [Finding Combinatorial Sums Gist](https://gist.github.com/devNoiseConsulting/9efde9d55cca8e99e80242bca9ed7366)
 
+### Day 70: March 16, 2017
+
+**Today's Progress:** More Learn ReactJS: Part II at Codecademy and got 4 badges. Worked on a daily programming challenge from the PhillyDev Slack.
+
+**Thoughts:** More React concepts. Generally try to keep the components simple. Make display component stateless and move logic to a parent component.
+
+**Link to work:**
+* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+* [Sort With Old Position](https://gist.github.com/devNoiseConsulting/d3eb37268dc76dbca5fd1491b362b884)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
