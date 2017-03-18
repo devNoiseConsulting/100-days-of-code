@@ -704,6 +704,15 @@ Get Set for our API Development Projects.
 * [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
 * [Sort With Old Position](https://gist.github.com/devNoiseConsulting/d3eb37268dc76dbca5fd1491b362b884)
 
+### Day 71: March 17, 2017
+
+**Today's Progress:** Finished Learn ReactJS: Part II at Codecademy and got 3 badges. Worked on a daily programming challenge from the PhillyDev Slack.
+
+**Thoughts:** The life cycle calls the covered make sense, but I think I'll understand them better when I have code that uses them. Did FizzBuzz for the daily programming challenge. Was pretty straight forward so I made a couple of solutions. Turns out that .map and .forEach seem to be faster then a for loop.
+
+**Link to work:**
+* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+* [FizzBuzz](https://gist.github.com/devNoiseConsulting/97e264fcf71058c1e8514a0325707000)
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
