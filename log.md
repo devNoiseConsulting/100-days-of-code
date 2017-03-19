@@ -714,6 +714,16 @@ Get Set for our API Development Projects.
 * [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
 * [FizzBuzz](https://gist.github.com/devNoiseConsulting/97e264fcf71058c1e8514a0325707000)
 
+### Day 72: March 18, 2017
+
+**Today's Progress:** Worked on a React version of the Markdown Previewer for freeCodeCamp.
+
+**Thoughts:** Converting code from a Codecademy exercise for this challenge. I thought I had working code, but can't get it to work on CodePen. Keep getting a "Unclosed Regular Expression". I thought the Babel transpiler would take care of this.
+
+**Link to work:**
+* [CodePen](http://codepen.io/_dev_noise/pen/jBYYKR)
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
