@@ -723,6 +723,15 @@ Get Set for our API Development Projects.
 **Link to work:**
 * [CodePen](http://codepen.io/_dev_noise/pen/jBYYKR)
 
+### Day 73: March 19, 2017
+
+**Today's Progress:** More work on a React version of the Markdown Previewer for freeCodeCamp.
+
+**Thoughts:** Followed Codecademy's articles on setting a React dev. Since I already have Node.js installed, it was mostly getting the project setup and installing the npm modules.
+Other than one problem with the JSX, the code I had written worked. Bigger problem is that I can get BootStrap into the app via Webpack.
+
+**Link to work:**
+* [Markdown Previewer Repo](https://github.com/devNoiseConsulting/Markdown-Previewer)
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
