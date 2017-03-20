@@ -733,6 +733,18 @@ Other than one problem with the JSX, the code I had written worked. Bigger probl
 **Link to work:**
 * [Markdown Previewer Repo](https://github.com/devNoiseConsulting/Markdown-Previewer)
 
+
+### Day 74: March 20, 2017
+
+**Today's Progress:** Completed the Markdown Previewer challenge for freeCodeCamp. Also did a Cardinality Sort for the daily programming challenge from the PhillyDev Slack
+
+**Thoughts:** Went back to CodePen as that is the only way to complete the challenge. Drop back a bit and implement one component at a time. I think the HTML I used in the App component might have the root cause of my initial problems. Also Taking JSX HTML and putting it in HTML might cause a problem since className won't apply a CSS class to the element.
+
+**Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+* [CodePen](http://codepen.io/_dev_noise/pen/jBYYKR)
+* [Cardinality Sort Gist](https://gist.github.com/devNoiseConsulting/df2b6d92b9aef0ff52b87ec89c4a040f)
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
