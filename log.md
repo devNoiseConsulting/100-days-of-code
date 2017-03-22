@@ -754,6 +754,18 @@ Other than one problem with the JSX, the code I had written worked. Bigger probl
 * [Camper Leaderboard Repo](https://github.com/devNoiseConsulting/Camper-Leaderboard)
 * [Digit Sum Gist](https://gist.github.com/devNoiseConsulting/e67f546adad4b5ee5ea9e2b279f56c85)
 
+### Day 76: March 22, 2017
+
+**Today's Progress:** Completed working on the Camper Leaderboard challenge for freeCodeCamp. Also did a weighted digit sum for the daily programming challenge from the PhillyDev Slack.
+
+**Thoughts:** I may need to look into sass some more, but I tend to stick with Bootstrap for styling my UI. I've taken to making github repos for the challenges/projects as I get better feedback than Codepen gives me. Spent a lot of time trying to get webpack to suck in Bootstrap. Will need to look into webpack to figure a good build process.
+
+**Link to work:**
+* [CodePen](https://codepen.io/_dev_noise/pen/BWrXgY)
+* [Camper Leaderboard Repo](https://github.com/devNoiseConsulting/Camper-Leaderboard)
+* [Weighted Sum of Digits Gist](https://gist.github.com/devNoiseConsulting/26947e4496308a3e48865c74c5502b68)
+
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
