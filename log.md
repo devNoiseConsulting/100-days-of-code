@@ -761,10 +761,19 @@ Other than one problem with the JSX, the code I had written worked. Bigger probl
 **Thoughts:** I may need to look into sass some more, but I tend to stick with Bootstrap for styling my UI. I've taken to making github repos for the challenges/projects as I get better feedback than Codepen gives me. Spent a lot of time trying to get webpack to suck in Bootstrap. Will need to look into webpack to figure a good build process.
 
 **Link to work:**
+* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 * [CodePen](https://codepen.io/_dev_noise/pen/BWrXgY)
 * [Camper Leaderboard Repo](https://github.com/devNoiseConsulting/Camper-Leaderboard)
 * [Weighted Sum of Digits Gist](https://gist.github.com/devNoiseConsulting/26947e4496308a3e48865c74c5502b68)
 
+### Day 77: March 23, 2017
+
+**Today's Progress:** Started working on the Game of Life project for freeCodeCamp.
+
+**Thoughts:** Getting the repo setup, loading the needed npm modules, and setting up the initial components. Making the child components as stateless as possible, so I need to send a lot of props down. Next step is to figure out how to send a click up the components to indicate that the user has populated a cell.
+
+**Link to work:**
+* [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
 
 
 ### Day 0: February 30, 2016 (Example 1)
