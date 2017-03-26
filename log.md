@@ -775,6 +775,25 @@ Other than one problem with the JSX, the code I had written worked. Bigger probl
 **Link to work:**
 * [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
 
+### Day 78: March 24, 2017
+
+**Today's Progress:** Daily programming challenges from the PhillyDev Slack.
+
+**Thoughts:** The Vowel Count was pretty easy after the Word Ladder problem from Thursday. The conversation about my Word Ladder solution got me to work on some revisions to improve the weighting for changing words.
+
+**Link to work:**
+* [Vowel Count Gist](https://gist.github.com/devNoiseConsulting/074de986f1679fa6d88daa1f7be2c00c)
+* [Word Ladder Gist](https://gist.github.com/devNoiseConsulting/a2c8fb0223f45b3f1b7b2db7b34db631)
+
+### Day 79: March 25, 2017
+
+**Today's Progress:** Working on the Game of Life project for freeCodeCamp.
+
+**Thoughts:** Worked on getting the code to pass the toggleCell down the component chain so the table cell could handle the click correctly. The worked on the functions for the buttons to work with. Then spent a lot of time figuring out code for the next generation.
+
+**Link to work:**
+* [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
