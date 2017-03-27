@@ -794,6 +794,17 @@ Other than one problem with the JSX, the code I had written worked. Bigger probl
 **Link to work:**
 * [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
 
+### Day 80: March 26, 2017
+
+**Today's Progress:** Developer done with the Game of Life project for freeCodeCamp.
+
+**Thoughts:** After a timing test, I believe that 250ms is a safe value for the
+generation interval. Changed the radomizeLife function to add living cells to the current
+gameCells instead of making a new board. Change calculateCell to wrap around so spaceships could live on. Having problems getting the code to work on codepen.io
+
+**Link to work:**
+* [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
