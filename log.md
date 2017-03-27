@@ -805,6 +805,20 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 **Link to work:**
 * [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
 
+### Day 81: March 27, 2017
+
+**Today's Progress:** Done with the Game of Life project for freeCodeCamp. Daily programming challenges from the PhillyDev Slack.
+
+**Thoughts:** I can't waste any more time trying to get codepen.io to work with my React code. I can get the code working locally and can deploy to my hosting plan with much less effort. Also tweaked some of my other React projects so they could be deployed. For the daily programming challenge, I tried a second solution to use a .forEach to initialize the Fibonacci terms. It works, but I don't think it's better than the for loop I originally came up with.
+
+**Link to work:**
+* [Game of Life](https://freecodecamp.devnoise.com/game-of-life/)
+* [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
+* [Camper Leaderboard](https://freecodecamp.devnoise.com/camper-leaderboard)
+* [Camper Leaderboard Repo](https://github.com/devNoiseConsulting/Camper-Leaderboard)
+* [Markdown Previewer](https://freecodecamp.devnoise.com/markdown-previewer)
+* [Markdown Previewer Repo](https://github.com/devNoiseConsulting/Markdown-Previewer)
+* [Sum Even Fibonacci Terms Less Than N](https://gist.github.com/devNoiseConsulting/86bd3889eb7fe79fb5bdc88dba49f1ae)
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
