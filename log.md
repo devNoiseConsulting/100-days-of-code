@@ -830,6 +830,16 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 * [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
 * [Alternating Concat Gist](https://gist.github.com/devNoiseConsulting/d0d731208aa0ffe8b6f00824b9cedaff)
 
+### Day 83: March 29, 2017
+
+**Today's Progress:** Mostly UI work on the Recipe Box project for freeCodeCamp. Daily programming challenges from the PhillyDev Slack.
+
+**Thoughts:** Change the Recipe panel to show/hide the ingredients. It works, but may need some sort of animation to make the show/hide look better. Worked on a modal to let the user add new recipes. UI is in place, but nothing is wired up. This also lead me to realize that while I installed node modules for dev use they didn't get saved to package.json. The daily programming challenge worked, but was revised after seeing more information and a solution for the challenge. Realized I could reduce the overlap checking to one test.
+
+**Link to work:**
+* [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
+* [Merge Overlapping Intervals](https://gist.github.com/devNoiseConsulting/ce7ec6ada57e60d87925f94ffcc3e909)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
