@@ -820,6 +820,17 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 * [Markdown Previewer Repo](https://github.com/devNoiseConsulting/Markdown-Previewer)
 * [Sum Even Fibonacci Terms Less Than N](https://gist.github.com/devNoiseConsulting/86bd3889eb7fe79fb5bdc88dba49f1ae)
 
+### Day 82: March 28, 2017
+
+**Today's Progress:** Started the Recipe Box project for freeCodeCamp. Daily programming challenges from the PhillyDev Slack.
+
+**Thoughts:** Flexing memory muscle getting this project started. No real issues, just taking time to get the repo setup and npm modules installed. Stubbed out the components that I think I'll need. Will need to make it more interactive tomorrow. For the daily programming challenge, I came up with 2 solutions. The .forEach is a more natural solution for me. The .splice took some though around the for loop condition and insertion index.
+
+**Link to work:**
+* [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
+* [Alternating Concat Gist](https://gist.github.com/devNoiseConsulting/d0d731208aa0ffe8b6f00824b9cedaff)
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
