@@ -838,7 +838,17 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Link to work:**
 * [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
-* [Merge Overlapping Intervals](https://gist.github.com/devNoiseConsulting/ce7ec6ada57e60d87925f94ffcc3e909)
+* [Merge Overlapping Intervals Gist](https://gist.github.com/devNoiseConsulting/ce7ec6ada57e60d87925f94ffcc3e909)
+
+### Day 84: March 30, 2017
+
+**Today's Progress:** Adding the create and delete functions on the Recipe Box project for freeCodeCamp. Daily programming challenges from the PhillyDev Slack.
+
+**Thoughts:** Made progress on adding features to the Recipe Box and passing the functions through multiple components. The daily programming challenge was pretty quick, so I opted to work on multiple solutions.
+
+**Link to work:**
+* [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
+* [Shuffle Larger Number Gist](https://gist.github.com/devNoiseConsulting/2545354085b7ce3f96ece9f2b73735ac)
 
 
 ### Day 0: February 30, 2016 (Example 1)
