@@ -850,6 +850,25 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 * [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
 * [Shuffle Larger Number Gist](https://gist.github.com/devNoiseConsulting/2545354085b7ce3f96ece9f2b73735ac)
 
+### Day 85: March 31, 2017
+
+**Today's Progress:** No real progress on the Recipe Box project for freeCodeCamp. Daily programming challenges from the PhillyDev Slack.
+
+**Thoughts:** Trying to get the bootstrap modal to be dual purpose, but running into problems getting is wired up. Adding a lot of state in the App component.
+
+**Link to work:**
+* [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
+* [PHP FizzBuzz Gist](https://gist.github.com/devNoiseConsulting/b338da81cac98df91d5cb8b881eec791)
+
+### Day 86:  April1, 2017
+
+**Today's Progress:** Wrote some code match up PA brewery license with the breweries in the geoBeer repo.
+
+**Thoughts:** Generally this was supposed to be throw away code, but it lives on. My biggest problem was tracking down a minor floating point issues. When I was trying to calculate the distance between point with Lat and Lng, sometimes I would get NaN. For some reason one of the line would return a number that was minutely over 1, which would cause the Math.acos function to return NaN. Honestly the function to calc distance was a copy and paste job.
+
+**Link to work:**
+* [geoBeer Repo](htthttps://github.com/devnoiseconsulting/geoBeer)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
