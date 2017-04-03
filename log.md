@@ -860,7 +860,7 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 * [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
 * [PHP FizzBuzz Gist](https://gist.github.com/devNoiseConsulting/b338da81cac98df91d5cb8b881eec791)
 
-### Day 86:  April1, 2017
+### Day 86:  April 1, 2017
 
 **Today's Progress:** Wrote some code match up PA brewery license with the breweries in the geoBeer repo.
 
@@ -868,6 +868,15 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Link to work:**
 * [geoBeer Repo](htthttps://github.com/devnoiseconsulting/geoBeer)
+
+### Day 87:  April 2, 2017
+
+**Today's Progress:** Getting the recipe editing to work on the Recipe Box project for freeCodeCamp.
+
+**Thoughts:** Rolled the code back to a state where adding worked and editing was just stubbed out. Made a new component to handle the editing. Not sure if my solution for editing is really the proper React way, but it works. Then some work on getting the new recipe data back into the App's state. Also ran into some problem in git with how I rolled my code back.
+
+**Link to work:**
+* [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
 
 
 ### Day 0: February 30, 2016 (Example 1)
