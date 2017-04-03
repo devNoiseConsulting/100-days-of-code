@@ -878,6 +878,18 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 **Link to work:**
 * [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
 
+### Day 88:  April 3, 2017
+
+**Today's Progress:** Finished the Recipe Box project for freeCodeCamp. Daily programming challenges from the PhillyDev Slack.
+
+**Thoughts:** Keep forgetting that the localStorge is not an object store. Need JSON.stringify() and JSON.parse to have the data in a useful state. Having to track down that issue took a little bit of time. Was able to get my React code to work on Codepen.io without much effort. Spent more time getting the bootstrap modal working. Needed to include the Javascript components of BootStrap. The daily programming challenge was easier as I had already made a Roman numerial converter for freeCodeCamp. I tweaked the looping, but core logic stayed the same. Snagged a code snippet from Stack Overflow to reduce the string to unique letters.
+
+**Link to work:**
+* [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
+* [CodePen](http://codepen.io/_dev_noise/full/JWzKoL/)
+* [Recipe Box](https://freecodecamp.devnoise.com/recipe-box)
+* [Pandigital Roman Numerals](https://gist.github.com/devNoiseConsulting/cf5ab178fd6f2ba68eda16f09cc5d17a)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
