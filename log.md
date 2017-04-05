@@ -890,6 +890,15 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 * [Recipe Box](https://freecodecamp.devnoise.com/recipe-box)
 * [Pandigital Roman Numerals](https://gist.github.com/devNoiseConsulting/cf5ab178fd6f2ba68eda16f09cc5d17a)
 
+### Day 89:  April 4, 2017
+
+**Today's Progress:** Daily programming challenges from the PhillyDev Slack. Tried to start the Sass challenges on the beta version of freeCodeCamp.
+
+**Thoughts:** Daily challenge was straight forward, just needed to use Array.filter to get the results needed. The rouguelike project seemed complicated, so I switched to gettting some more skills with Sass. Unfortunately those challenges are broken. Then switched over to work on the Mobile Sites certification from Google. Can't really show work for that.
+
+* [freeCodeCamp Profile](https://beta.freecodecamp.com/devnoiseconsulting)
+* [Period Table Filter](https://gist.github.com/devNoiseConsulting/dedebdede5dc3f654870790da51f5a09)
+* [Mobile Sites certification](https://support.google.com/partners/answer/7358898?hl=en)
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
