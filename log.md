@@ -860,7 +860,7 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 * [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
 * [PHP FizzBuzz Gist](https://gist.github.com/devNoiseConsulting/b338da81cac98df91d5cb8b881eec791)
 
-### Day 86:  April 1, 2017
+### Day 86: April 1, 2017
 
 **Today's Progress:** Wrote some code match up PA brewery license with the breweries in the geoBeer repo.
 
@@ -869,7 +869,7 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 **Link to work:**
 * [geoBeer Repo](htthttps://github.com/devnoiseconsulting/geoBeer)
 
-### Day 87:  April 2, 2017
+### Day 87: April 2, 2017
 
 **Today's Progress:** Getting the recipe editing to work on the Recipe Box project for freeCodeCamp.
 
@@ -878,7 +878,7 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 **Link to work:**
 * [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
 
-### Day 88:  April 3, 2017
+### Day 88: April 3, 2017
 
 **Today's Progress:** Finished the Recipe Box project for freeCodeCamp. Daily programming challenges from the PhillyDev Slack.
 
@@ -890,15 +890,34 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 * [Recipe Box](https://freecodecamp.devnoise.com/recipe-box)
 * [Pandigital Roman Numerals](https://gist.github.com/devNoiseConsulting/cf5ab178fd6f2ba68eda16f09cc5d17a)
 
-### Day 89:  April 4, 2017
+### Day 89: April 4, 2017
 
 **Today's Progress:** Daily programming challenges from the PhillyDev Slack. Tried to start the Sass challenges on the beta version of freeCodeCamp.
 
 **Thoughts:** Daily challenge was straight forward, just needed to use Array.filter to get the results needed. The rouguelike project seemed complicated, so I switched to gettting some more skills with Sass. Unfortunately those challenges are broken. Then switched over to work on the Mobile Sites certification from Google. Can't really show work for that.
 
 * [freeCodeCamp Profile](https://beta.freecodecamp.com/devnoiseconsulting)
-* [Period Table Filter](https://gist.github.com/devNoiseConsulting/dedebdede5dc3f654870790da51f5a09)
+* [Period Table Filter Gist](https://gist.github.com/devNoiseConsulting/dedebdede5dc3f654870790da51f5a09)
 * [Mobile Sites certification](https://support.google.com/partners/answer/7358898?hl=en)
+
+### Day 90: April 5, 2017
+
+**Today's Progress:** More studying for Google's Mobile Sites certification and passed the exam. Daily programming challenges from the PhillyDev Slack.
+
+**Thoughts:** 
+
+* [Mobile Sites certification](https://support.google.com/partners/answer/7358898?hl=en)
+* [Google Partner Profile](https://www.google.com/partners/#i_profile;idtf=112737417005186127086;)
+* [Periodic Word Gist](https://gist.github.com/devNoiseConsulting/2f60b30bc5284b4808b44f144715b6bb)
+
+### Day 91: April 6, 2017
+
+**Today's Progress:** Daily programming challenges from the PhillyDev Slack. Attended Oracle Cloud Day - Philadelphia.
+
+**Thoughts:** The daily challenge was a repeat from last month. I got the challenge via my phone and completed the challenge from memory as I didn't have wifi for my laptop. Today's solution was a bot more compact than the last one I did.
+
+* [Kaprekar's Routine Gist](https://gist.github.com/devNoiseConsulting/beec314a75662c083e2196b514102b71)
+
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
