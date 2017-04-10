@@ -944,6 +944,13 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 * [freeCodeCamp Profile](https://beta.freecodecamp.com/devnoiseconsulting)
 
+### Day 95: April 10, 2017
+
+**Today's Progress:** Daily programming challenges from the PhillyDev Slack.
+
+**Thoughts:** Binary Trees are right above my comfort level with code. I had to crib some knowledge from some webpages to get a working solution. After getting the node object solution working, I tried to get an array only solution to work. It works for a tree that has less than 3 levels. 
+
+* [Inverting Binary Tree Gist](https://gist.github.com/devNoiseConsulting/6d5a5fb9c396d363d3d362b8d60e03cd)
 
 <!--
 
