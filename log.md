@@ -904,7 +904,7 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Today's Progress:** More studying for Google's Mobile Sites certification and passed the exam. Daily programming challenges from the PhillyDev Slack.
 
-**Thoughts:** 
+**Thoughts:** Can't really remember my thoughts. Just getting through the material and taking the exam. Would be nice if you could see what topics/areas you didn't do well in.
 
 * [Mobile Sites certification](https://support.google.com/partners/answer/7358898?hl=en)
 * [Google Partner Profile](https://www.google.com/partners/#i_profile;idtf=112737417005186127086;)
@@ -914,10 +914,38 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Today's Progress:** Daily programming challenges from the PhillyDev Slack. Attended Oracle Cloud Day - Philadelphia.
 
-**Thoughts:** The daily challenge was a repeat from last month. I got the challenge via my phone and completed the challenge from memory as I didn't have wifi for my laptop. Today's solution was a bot more compact than the last one I did.
+**Thoughts:** The daily challenge was a repeat from last month. I got the challenge via my phone and completed the challenge from memory as I didn't have wifi for my laptop. Today's solution was a bit more compact than the last one I did.
 
 * [Kaprekar's Routine Gist](https://gist.github.com/devNoiseConsulting/beec314a75662c083e2196b514102b71)
 
+### Day 92: April 7, 2017
+
+**Today's Progress:** Started Codecademy's Learn Sass course. Daily programming challenges from the PhillyDev Slack.
+
+**Thoughts:** Trying to get a bit more experience with Sass. Completed 2 of the 4 sections. The daily programming challenge was simple to get setup, but ran into some minor issues. Had to debug a couple times to get the bounds condition correct.
+
+* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+* [Longest Substring Gist](https://gist.github.com/devNoiseConsulting/6f942e56b08e3ab18d62bb933d812f7b)
+
+### Day 93: April 8, 2017
+
+**Today's Progress:** Finished Codecademy's Learn Sass course.
+
+**Thoughts:** Finished the last 2 section of the course. There are some concepts which is I completed, but think some more practice would be helpful.
+
+* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+
+
+### Day 94: April 9, 2017
+
+**Today's Progress:** Started freeCodeCamp's Data Visualization with D3 on the beta site.
+
+**Thoughts:** I was able to progress through about 9-10 of the D3 exercises before I hit the wall. Which is a lot more than I could do with the Sass challenges on the beta site. For most of the challenges, I just commented out the `const dataset...` line and replaced the dataset variable with the literal array. This worked up until the SVG challenge were it wouldn't let me hardcode the height and width of the SVG element.
+
+* [freeCodeCamp Profile](https://beta.freecodecamp.com/devnoiseconsulting)
+
+
+<!--
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -927,3 +955,5 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
+-->
