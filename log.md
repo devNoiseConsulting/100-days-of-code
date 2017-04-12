@@ -948,9 +948,18 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Today's Progress:** Daily programming challenges from the PhillyDev Slack.
 
-**Thoughts:** Binary Trees are right above my comfort level with code. I had to crib some knowledge from some webpages to get a working solution. After getting the node object solution working, I tried to get an array only solution to work. It works for a tree that has less than 3 levels. 
+**Thoughts:** Binary Trees are right above my comfort level with code. I had to crib some knowledge from some webpages to get a working solution. After getting the node object solution working, I tried to get an array only solution to work. It works for a tree that has less than 3 levels.
 
 * [Inverting Binary Tree Gist](https://gist.github.com/devNoiseConsulting/6d5a5fb9c396d363d3d362b8d60e03cd)
+
+### Day 96: April 11, 2017
+
+**Today's Progress:** Daily programming challenges from the PhillyDev Slack.
+
+**Thoughts:** Back to Binary tress for the challenge today. Reused some code from yesterday's challenge. Used the traverse function I wrote yesterday as the basis for the comapreTrees function. Looks very different now, but the basic concept it there. Look at the data attribute, then handle the left and right children. Initially I used one variable to hold the equal state. Some debugging showed that the right side could over write a false state on the left side. Also made some functions to handle the tree initialization and testing.
+
+* [Compare Binary Trees Gist](https://gist.github.com/devNoiseConsulting/e920ec252dde75fb9a0767436ae87c89)
+
 
 <!--
 
