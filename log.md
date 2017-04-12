@@ -960,6 +960,15 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 * [Compare Binary Trees Gist](https://gist.github.com/devNoiseConsulting/e920ec252dde75fb9a0767436ae87c89)
 
+### Day 97: April 12, 2017
+
+**Today's Progress:** Started work on freeCodeCamp's Visualize Data with a Bar Chart project. Daily programming challenges from the PhillyDev Slack.
+
+**Thoughts:** Want to move forward with the Data Visualization Certification. Still need to learn a lot more about D3.js. Tried getting a solution to work from some examples and tutorials I found. Was able to following along and got the bar chart to display something. Problem is I can't seem to get the axis code working. The daily challenge was to find tree depth. Use the traverse function as a starting point and then convert to the solution I need. Had more issues with testing the code. Tried to create an unbalanced binary tree. Had to modify the initialization to handle null as an input. Also tweaked the traverse to show an empty child, but also not show the empty child if both children are null. 
+
+* [CodePen](http://codepen.io/_dev_noise/pen/jmOwGK)
+* [Binary Tree Depth Gist](https://gist.github.com/devNoiseConsulting/1efb96f3ad66de5d0d0905b0f2f5142e)
+
 
 <!--
 
