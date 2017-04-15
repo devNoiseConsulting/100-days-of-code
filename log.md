@@ -964,10 +964,28 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Today's Progress:** Started work on freeCodeCamp's Visualize Data with a Bar Chart project. Daily programming challenges from the PhillyDev Slack.
 
-**Thoughts:** Want to move forward with the Data Visualization Certification. Still need to learn a lot more about D3.js. Tried getting a solution to work from some examples and tutorials I found. Was able to following along and got the bar chart to display something. Problem is I can't seem to get the axis code working. The daily challenge was to find tree depth. Use the traverse function as a starting point and then convert to the solution I need. Had more issues with testing the code. Tried to create an unbalanced binary tree. Had to modify the initialization to handle null as an input. Also tweaked the traverse to show an empty child, but also not show the empty child if both children are null. 
+**Thoughts:** Want to move forward with the Data Visualization Certification. Still need to learn a lot more about D3.js. Tried getting a solution to work from some examples and tutorials I found. Was able to following along and got the bar chart to display something. Problem is I can't seem to get the axis code working. The daily challenge was to find tree depth. Use the traverse function as a starting point and then convert to the solution I need. Had more issues with testing the code. Tried to create an unbalanced binary tree. Had to modify the initialization to handle null as an input. Also tweaked the traverse to show an empty child, but also not show the empty child if both children are null.
 
 * [CodePen](http://codepen.io/_dev_noise/pen/jmOwGK)
 * [Binary Tree Depth Gist](https://gist.github.com/devNoiseConsulting/1efb96f3ad66de5d0d0905b0f2f5142e)
+
+### Day 98: April 13, 2017
+
+**Today's Progress:** More work on freeCodeCamp's Visualize Data with a Bar Chart project. Daily programming challenges from the PhillyDev Slack.
+
+**Thoughts:** A bit of recoding after I forked the Codepen. Made use of D3.json to get the data. Followed a couple examples to get things working. X Axis looks good. Y Axis doesn't have any ticks on it. The programming challenge was to find the length of the longest path between node in a binary tree. Logic started from the treeDepth function I wrote the day before, but then also calculating the longest path for the children.
+
+* [CodePen](http://codepen.io/_dev_noise/pen/zwxNjX/)
+* [Longest Path Between Nodes Gist](https://gist.github.com/devNoiseConsulting/e3875eb007eac63a1de850986d23f0a5)
+
+### Day 99: April 14, 2017
+
+**Today's Progress:** More work on freeCodeCamp's Visualize Data with a Bar Chart project. Daily programming challenges from the PhillyDev Slack.
+
+**Thoughts:** Tried to get the tool tip working on the graph. Not much success even through I'm following example code. For the programming challenge, I needed to make copies of the arrays I sent into the recursive function. Otherwise the path would get corrupted because I would have data that valid for the node I was processing. 
+
+* [CodePen](http://codepen.io/_dev_noise/pen/QvwzR/)
+* [Find Leaf Paths Gist](https://gist.github.com/devNoiseConsulting/c3df520dd5ffa20b7a6e6e98925fa855)
 
 
 <!--
