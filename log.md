@@ -982,11 +982,19 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Today's Progress:** More work on freeCodeCamp's Visualize Data with a Bar Chart project. Daily programming challenges from the PhillyDev Slack.
 
-**Thoughts:** Tried to get the tool tip working on the graph. Not much success even through I'm following example code. For the programming challenge, I needed to make copies of the arrays I sent into the recursive function. Otherwise the path would get corrupted because I would have data that valid for the node I was processing. 
+**Thoughts:** Tried to get the tool tip working on the graph. Not much success even through I'm following example code. For the programming challenge, I needed to make copies of the arrays I sent into the recursive function. Otherwise the path would get corrupted because I would have data that valid for the node I was processing.
 
 * [CodePen](http://codepen.io/_dev_noise/pen/QvwzR/)
 * [Find Leaf Paths Gist](https://gist.github.com/devNoiseConsulting/c3df520dd5ffa20b7a6e6e98925fa855)
 
+### Day 100: April 15, 2017
+
+**Today's Progress:** Started/Completed Codecademy's Deploy a Website course.
+
+**Thoughts:** While doing this course I also tried to get Jeykll install on my desktop via MacPorts. Default Ruby is 1.8, Jeykll wants something higher so Ruby 2.4 was install as well. My defaults for setting up a Github repo caused a small conflict. Had to pull down the files from Github and clear up the conflict in the .gitignore file. Also had a typo in the repo name so I had to change that. I have use Route 53 on AWS in the past, but went with the DNS on my hosting plan. Created a CNAME entry to point to the Github IO pages.
+
+* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+* [Jeykll Website](http://codecademy.devnosie.com/)
 
 <!--
 
