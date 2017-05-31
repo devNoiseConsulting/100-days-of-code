@@ -18,7 +18,6 @@
 
 Need to look into the `pointToLayer` option for the `L.geoJSON` call.  
 
-
 **Link to work:** [geoBeer Map #2](http://breweries.flynnmj.org/leaflet_20170104.html)
 
 ### Day 3: January 5, 2017
@@ -78,9 +77,10 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 **Thoughts:** Getting quicker on making a new repo. Put the past work in as separate commits. My javascript uses let and const instead of var. This basic part of ES2015 is screwing up the gulp-uglify module.
 
 **Link to work:**
-* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
-* [Last commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/97a88065fdb918cb75120ab82f9156b171098300Â)
-* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
+-   [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+-   [Last commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/97a88065fdb918cb75120ab82f9156b171098300Â)
+-   [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
 ### Day 10: January 12, 2017
 
@@ -89,9 +89,10 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 **Thoughts:** Kept searching through the docs for things I knew I could do with Bootstrap 3. Seems I can still use the "small" class to scale down the text in the footer. I couldn't find that mentioned in the new docs. Since my layout is not that complex, still haven't hit to much on the use of Flexbox.
 
 **Link to work:**
-* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
-* [Last commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/b0c7bdc33df4358ba2327e8da256da8da3692b01)
-* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
+-   [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+-   [Last commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/b0c7bdc33df4358ba2327e8da256da8da3692b01)
+-   [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
 ### Day 11: January 12, 2017
 
@@ -100,9 +101,10 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 **Thoughts:** I knew that the Fetch API didn't work everywhere. Moving to Bootstrap v4, made testing on mobile bring home that the map wasn't displaying breweries. Need to look into the margin and padding spacing for BootStrap more. Quick fix was to put the class on all the elements. Feels like they should inherit from the column or row div.
 
 **Link to work:**
-* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
-* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/3cc229781be9a61d282c93a3ea4d7778be04ce62)
-* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
+-   [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+-   [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/3cc229781be9a61d282c93a3ea4d7778be04ce62)
+-   [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
 ### Day 12: January 16, 2017
 
@@ -111,9 +113,10 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 **Thoughts:** Back from vacation, so I missed a few days. The cluster plugin was very easy to integrate into the code. Minor issue with the cluster CSS. GitHub outage last week, made having a local copy a good idea.
 
 **Link to work:**
-* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
-* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/316a910279d6c71d1b7ca5db52c6c8ff3cb1da3c)
-* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
+-   [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+-   [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/316a910279d6c71d1b7ca5db52c6c8ff3cb1da3c)
+-   [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
 ### Day 13: January 17, 2017
 
@@ -122,9 +125,10 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 **Thoughts:** Getting a manifest.json for myGeoBeerMap. Created an app icon and generated the various sizes. Modified the gulp tasks to copy the manifest and images.
 
 **Link to work:**
-* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
-* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/33e1a607457da7ab43ff4d98f7d42bf889139b13)
-* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
+-   [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+-   [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/33e1a607457da7ab43ff4d98f7d42bf889139b13)
+-   [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
 ### Day 14: January 18, 2017
 
@@ -133,9 +137,10 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 **Thoughts:** When changing color schemes, you can fall down a rabbit hole. New cluster marker colors lead to changing the colors on the individual markers. This was done in the code as I didn't want to modify all the geoJSON files in the geoBeer repo.
 
 **Link to work:**
-* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
-* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/379f286e478aff0dc64f6a7a5f8787a7ea7b6254)
-* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
+-   [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+-   [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/379f286e478aff0dc64f6a7a5f8787a7ea7b6254)
+-   [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
 ### Day 15: January 19, 2017
 
@@ -144,9 +149,10 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 **Thoughts:** Bootstrap v4's container-fluid and padding were messing up the sticky footer. Facebook seems to have cached the og:image. Making it hard to test the new image size.
 
 **Link to work:**
-* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
-* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/e10c206ca5652f615ee073fcc6be7fc6e055914c)
-* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
+-   [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+-   [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/e10c206ca5652f615ee073fcc6be7fc6e055914c)
+-   [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
 ### Day 16: January 20, 2017
 
@@ -156,9 +162,10 @@ Believe I figured out why I was getting DOMExceptions yesterday. With no CSS for
 Changes the submit over to a button with the Font Awesome search icon. This caused me to rework the filterBreweries to handle a click event in addition to the submit event.
 
 **Link to work:**
-* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
-* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/254d06d81faac1a5360df9f1540940b377f6dca9)
-* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
+-   [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+-   [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/254d06d81faac1a5360df9f1540940b377f6dca9)
+-   [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
 ### Day 17: January 22, 2017
 
@@ -167,8 +174,9 @@ Changes the submit over to a button with the Font Awesome search icon. This caus
 **Thoughts:** Added UUIDs to each of the locations a brewery might have. This should allow other users to identify where they have made brewery visits. I was able to extract my status and save it to a separate file. With this save, I can reset all the brewery locations to a default state.
 
 **Link to work:**
-* [geoBeer](https://github.com/devNoiseConsulting/geoBeer/)
-* [Commit for the day](https://github.com/devNoiseConsulting/geoBeer/commit/b7b16e1e6acab7a58e295afdb05acef8a131c762)
+
+-   [geoBeer](https://github.com/devNoiseConsulting/geoBeer/)
+-   [Commit for the day](https://github.com/devNoiseConsulting/geoBeer/commit/b7b16e1e6acab7a58e295afdb05acef8a131c762)
 
 ### Day 18: January 23, 2017
 
@@ -178,8 +186,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** This should allow other people to contribute breweries to the geoBeer repo with affecting my brewery visits. First time I added one of my github repositories as a dependency. Will need to look into how I version geoBeer so myGeoBeerMap will know to pull a newer version of the repository.
 
 **Link to work:**
-* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
-* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/e3ab0b280b4bc3ba07351392119c953f4b8f6e6e)
+
+-   [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+-   [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/e3ab0b280b4bc3ba07351392119c953f4b8f6e6e)
 
 ### Day 19: January 24, 2017
 
@@ -188,9 +197,10 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Multiple clicks on the "Near Me" button would cycle through the different radii or turn the marker off. Simple error with resetting the radii index variable cause the first radius to be skipped after going though all the radii.
 
 **Link to work:**
-* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
-* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/ed38f129db1de1ea3f5fd2469f959d5c37b61391)
-* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
+-   [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+-   [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/ed38f129db1de1ea3f5fd2469f959d5c37b61391)
+-   [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
 ### Day 20: January 25, 2017
 
@@ -199,9 +209,10 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Seems that the navigator.geolocation.watchPosition would be called multiple times or again when returning to the tab. This would cause the code to lose reference to the radius marker so it couldn't be removed.
 
 **Link to work:**
-* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
-* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/6515fdc49a0dac96e6b6f5de2b5959e803237e62)
-* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
+
+-   [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+-   [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/6515fdc49a0dac96e6b6f5de2b5959e803237e62)
+-   [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
 ### Day 21: January 26, 2017
 
@@ -210,7 +221,8 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Very similar to the Codecademy work flow. Mostly a review of the HTML that I already know.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
 ### Day 22: January 27, 2017
 
@@ -219,7 +231,8 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** I have used BootStrap for a couple projects, and have used version 4 on myGeoBeerMap. I touch on jQuery a bit, but have less experience with it. Most modern browser can do most of the same things with vanilla javascript. Threw up some minimal projects in CodePen so I could move on.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
 ### Day 23: January 28, 2017
 
@@ -228,7 +241,8 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Lots of similar concepts I learned in other languages.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
 ### Day 24: January 29, 2017
 
@@ -237,7 +251,8 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Ran through a lot of stuff I was familar with. Since mode coding was involved, I did have to slow down and make sure I knew what was required.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
 ### Day 25: January 30, 2017
 
@@ -246,7 +261,8 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** These are taking a bit more time to complete. Dropped back to coding in vim so I could run the code through node.js on the command line.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
 ### Day 26: January 31, 2017
 
@@ -255,11 +271,11 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Coded the algorithms in a manner I'm used to. Later in the day I thought I could used a .split().map().join() instead of a for loop. After using the search on myGeoBeerMap, I felt should center around and show all the results. That pushed me into using the .reduce() function to get the data I needed.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
-* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/f4c6d333c6df23e2b7b8796fd4c5baadb4d42b0b)
-* [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+-   [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/f4c6d333c6df23e2b7b8796fd4c5baadb4d42b0b)
+-   [breweries.flynnmj.org](http://breweries.flynnmj.org/)
 
 ### Day 27: February 1, 2017
 
@@ -268,11 +284,12 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Felt I spent to much time searching for a quote API to use instead of actually coding the project. For myGeoBeerMap, kept tweaking the calculation of the bounding box to figure out best fit.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [CodePen](http://codepen.io/_dev_noise/pen/BpraoP)
-* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
-* [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/28c306c005fea2d01ac170b04751ec5fcf44094f)
-* [breweries.flynnmj.org](https://breweries.flynnmj.org/)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [CodePen](http://codepen.io/_dev_noise/pen/BpraoP)
+-   [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+-   [Commit for the day](https://github.com/devNoiseConsulting/myGeoBeerMap/commit/28c306c005fea2d01ac170b04751ec5fcf44094f)
+-   [breweries.flynnmj.org](https://breweries.flynnmj.org/)
 
 ### Day 28: February 2, 2017
 
@@ -281,8 +298,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Still spent a chunk of time trying to figure out which API to use. Wrote this project without using jQuery. Cribbed some code from myGeoBeerMap site to handle the lower parts of the AJAX calls.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [CodePen](http://codepen.io/_dev_noise/pen/ZLxVKe)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [CodePen](http://codepen.io/_dev_noise/pen/ZLxVKe)
 
 ### Day 29: February 3, 2017
 
@@ -291,8 +309,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Had a specific API to use for this project which was nice. Unfortunately, the docs seemed a bit weak. My query still came was cribbed from a search result. Hit a CORS issue with my search, found the solution in the freeCodeCamp forums. Safari is a semi modern browser. Apple needs to get on the ball and implement some of the newer features (the fetch API and template literals come to mind).
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [CodePen](http://codepen.io/_dev_noise/pen/qRYpRp)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [CodePen](http://codepen.io/_dev_noise/pen/qRYpRp)
 
 ### Day 30: February 4, 2017
 
@@ -301,8 +320,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Would have been nice if I could have request all the information in one call instead of 2x. Since I couldn't figure out when all the API calls were done, manipulated the DOM (2x-1) more times than I should have. Went with vanilla JS, but that means my project won't work in Safari. Presentation could be a little better, but I prefer to focus on the functionality.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [CodePen](http://codepen.io/_dev_noise/pen/rjKxpj)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [CodePen](http://codepen.io/_dev_noise/pen/rjKxpj)
 
 ### Day 31: February 5, 2017
 
@@ -311,7 +331,8 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Some good challenges to tackle today. To keep the algorithm for the roman numeral challenge simple I made array for translation hold my edge cases. That way I didn't have to test for them. Also went with regex for the pig latin challenge. Think that made it easier to determine what type of translation I needed to perform.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
 ### Day 32: February 6, 2017
 
@@ -320,7 +341,8 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** These challenges get me thinking. Always need to test. An off by one bug showed up a couple times today.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
 ### Day 33: February 7, 2017
 
@@ -329,7 +351,8 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** The Streamroller challenge was the toughest challenge yet. Tried to go with recursion, but somehow managed to lose the 2nd element in the array. After searching to forums, found some hints that pointed me at using Array.reduce to come up with a solution. A search also turned up parseInt(x, 2) that help make quick work of the binary string to normal string.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
 ### Day 34: February 8, 2017
 
@@ -338,7 +361,8 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** I had to work at these challenges, but they were more straight forward than Streamroller. The symmetric difference took a couple tries to get right. Had to dedup the numbers in the array before attempting to figure out the symmetric difference. The cash register was a bit like the roman numerial challenge. Start with the highest currency and go down to make the change.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
 ### Day 35: February 9, 2017
 
@@ -347,7 +371,8 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** The Inventory Update challenge was pretty straight forward. Just had to go back and add an sort to the inventory. The No repeats please challenge was hard. Tried to go at it by calculating the number of permutations. Search for some help and found Heap's algorithm. The brute force method solved it. The Friendly Date Ranges challenge wasn't to bad. Though I had to keep tweaking the test cases. Seems like I had to make exceptions for the year 2016.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
 ### Day 36: February 10, 2017
 
@@ -356,7 +381,8 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** All pretty straight forward chanllenges today. The instanceof part of the Make a Person challenge had me rework my solution. For Map the Debris challenge, I pulled the formula from the linked Wikipedia page. Forgot to add Earth's radius and round the answer before I passed the challenge. The Pairwise challenge had some hurdles to get over. Had to revise how I was tracking the used indicies and also make sure I wasn't using the same index for both parts of the sum.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
 
 ### Day 37: February 11, 2017
 
@@ -365,8 +391,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Built with Vanilla JavaScript and BootStrap. Took a little bit of time to get it all wired up, but was mostly straight forward. Was trying to convert the number from a string value to a numerical value when the user clicked on a number button. To avoid errors, this conversion was done when a math operator was clicked. The other big bug was handling multiple presses on the equals button. Put in some checks to prevent the register values from becoming corrupted. Converting null to a int or float would result in NaN.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [CodePen](http://codepen.io/_dev_noise/pen/MJZgbM)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [CodePen](http://codepen.io/_dev_noise/pen/MJZgbM)
 
 ### Day 38: February 12, 2017
 
@@ -375,9 +402,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Built with Vanilla JavaScript and BootStrap. Working with the Date object can be a pain. Bit of effort to get the clock display to switch between the two timers. Can't use the reduce function on a NodList and had to drop back to a forEach. Also need to clear the timeout so that I didn't end up with multiple timeouts running.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [CodePen](http://codepen.io/_dev_noise/pen/MJZryr)
 
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [CodePen](http://codepen.io/_dev_noise/pen/MJZryr)
 
 ### Day 39: February 13, 2017
 
@@ -386,8 +413,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Minimal UI using BootStrap. Getting the UI wired up is getting fairly straight forward. How to handle playing was a bit harder. Trying to get the AI portion of the game working was hard. Went through a couple revisions to figure out all the conditions I wanted to check for to figure out the best square. Had to tack on some code to just pick a square if there is no best square.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [CodePen](http://codepen.io/_dev_noise/pen/dNwLNE)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [CodePen](http://codepen.io/_dev_noise/pen/dNwLNE)
 
 ### Day 40: February 14, 2017
 
@@ -396,8 +424,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** More BootStrap for the UI and Vanilla JavaScript. Tried to use some libraries to handle a toggle switch. UI looked good, but couldn't get click events to get to my functions. Dropped back to using button groups and some cutom Javascript to add/remove classes to perform the toggle. Game squares will change color and play a sound.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
 
 ### Day 41: February 15, 2017
 
@@ -406,8 +435,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Mostly wiring up the UI to the JavaScript. To test, I created a mock sequence to see how playing the sequence would work. Have a stub function to check the players sequence to the computer's. This is most likely where my work will pick up tomorrow. Found myself trying to make sure I use the reduce and forEach functions on an array instead of a plain for loop.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
 
 ### Day 42: February 16, 2017
 
@@ -416,8 +446,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** The sequence check is working. Have the code adding a new square for the sequence. Will play the sequence again if a wrong square is pressed. Don't seem to have an error sound to play. Need to add some code to determine if the user has won the game.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
 
 ### Day 43: February 17, 2017
 
@@ -426,8 +457,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Added a lot of the condition checks(victory, strict mode,game on). Also refactored a some code into their own functions. This was for duplicate code and help clean some functions up.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [CodePen](http://codepen.io/_dev_noise/pen/bgZbqY)
 
 ### Day 44: February 18, 2017
 
@@ -436,8 +468,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Spent a lot of time trying to get Magento setup on my Ubuntu server. So to get my hour in, I started some of the challenges for the Back End Development Certification. Mostly review, but the tag stuff was something I haven't used before.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [Cloud 9](https://c9.io/devnoise/npm)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [Cloud 9](https://c9.io/devnoise/npm)
 
 ### Day 45: February 19, 2017
 
@@ -446,8 +479,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Made today a light day as I had a couple of other thing happening today. Continuing the Back End Development Certification. This is a refresher as I've already completed learnyournode at a nodeschool event.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [Cloud 9](https://c9.io/devnoise/learnyournode)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [Cloud 9](https://c9.io/devnoise/learnyournode)
 
 ### Day 46: February 20, 2017
 
@@ -456,8 +490,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Another light day, not as much coding as I would have liked. Feel like I learn how to use code is by looking at examples. Looking at the Node docs didn't always help me.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [Cloud 9](https://c9.io/devnoise/learnyournode)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [Cloud 9](https://c9.io/devnoise/learnyournode)
 
 ### Day 47: February 21, 2017
 
@@ -466,8 +501,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Had to reinstall Magento and then had to fix the Apache2 config. Finished the learnyounode tasks. Mostly the HTTP server calls, tripped up when to set the response object.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [Cloud 9](https://c9.io/devnoise/learnyournode)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [Cloud 9](https://c9.io/devnoise/learnyournode)
 
 ### Day 48: February 22, 2017
 
@@ -476,8 +512,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Some of the exercise seem to fubar my install of Magento. I can't seem to find the exercise guide. All I have is the solutions guide. Hard for me to know exactly what the exercise was. Also the exercises seem to lack consistency.
 
 **Link to work:**
-* [Magento Install](https://magento.home.ts/)
-* [mkMagento.sh](https://gist.github.com/devNoiseConsulting/ea5e3eabf7fb8daf47441168a9f7bd90)
+
+-   [Magento Install](https://magento.home.ts/)
+-   [mkMagento.sh](https://gist.github.com/devNoiseConsulting/ea5e3eabf7fb8daf47441168a9f7bd90)
 
 ### Day 49: February 23, 2017
 
@@ -486,7 +523,8 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Got through the first challenge and then hit a wall. The Jade challenge isn't working. Peaked at the solution and my code is similar. Somehow Jade didn't get installed. Went with the Read-Search-Ask to find a solution. Searching didn't give offer much. Tried the gitter without success. Created a new topic on the forum. Waiting to hear back. May also just run expresswork on my laptop.
 
 **Link to work:**
-* [Cloud 9](https://c9.io/devnoise/express)
+
+-   [Cloud 9](https://c9.io/devnoise/express)
 
 ### Day 50: February 24, 2017
 
@@ -495,8 +533,9 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** After setting a remote azat-co/expressworks, I was able to do the pull and merge. Ended up with 1 conflict. Apparently since freeCodeCamp forked expressworks for work with Cloud 9, azat-co have updated the code to match most of the timeouts in the exercises. The stylish_css exercise was the only conflict because that exercise was increased to 2000 milliseconds. Since it looked like azat-co/exporessworks should be compatible, I opened an issue with fcc-expressworks to change when they get expressworks from.
 
 **Link to work:**
-* [devNoiseConsulting/expressworks](https://github.com/devNoiseConsulting/expressworks)
-* [fcc-expressworks issue](https://github.com/freeCodeCamp/fcc-expressworks/issues/8)
+
+-   [devNoiseConsulting/expressworks](https://github.com/devNoiseConsulting/expressworks)
+-   [fcc-expressworks issue](https://github.com/freeCodeCamp/fcc-expressworks/issues/8)
 
 ### Day 51: February 25, 2017
 
@@ -505,9 +544,10 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** Created a new workspace on Cloud 9 and use the official expressworks module. Still had to install the Pug module to the Jade/Pug challenge to work. Had issues with the last two challenges as the JSON output was multi line and the exercise expected it on a single line. Tweaking the response object to use JSON.stringify solved the problem.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [Cloud 9](https://c9.io/devnoise/expressworks)
-* [Code Camp 2017.1](https://www.meetup.com/Philly-NET/events/237291594/)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [Cloud 9](https://c9.io/devnoise/expressworks)
+-   [Code Camp 2017.1](https://www.meetup.com/Philly-NET/events/237291594/)
 
 ### Day 52: February 26, 2017
 
@@ -516,9 +556,10 @@ geobeer.json file in the myGeoBeerMap. Updated the package.json to have script c
 **Thoughts:** A moderate user of git, then git-it exercises were pretty easy. In fact I've already completed git-it once before.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [patchwork](https://github.com/devNoiseConsulting/patchwork)
-* [Cloud 9](https://ide.c9.io/devnoise/git-it)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [patchwork](https://github.com/devNoiseConsulting/patchwork)
+-   [Cloud 9](https://ide.c9.io/devnoise/git-it)
 
 ### Day 53: February 27, 2017
 
@@ -528,11 +569,12 @@ Get Set for our API Development Projects.
 **Thoughts:** learnyoumongo is not fully baked. It's a bit hard to figure out what needs to be done. The last two exercises weren't finished because mongodb didn't seem to get initialized with the right values. Also had a problem with the module having an hard error instead of catching it because the function done was not defined.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [Cloud 9](https://ide.c9.io/devnoise/learnyoumongo)
-* [Cloud 9](https://ide.c9.io/devnoise/camper-api-project)
-* [learnyoumongo issue](https://github.com/evanlucas/learnyoumongo/issues/55)
-* [freeCodeCamp forum post](https://forum.freecodecamp.com/t/learnyoumongo-remove-exercise-broken/91859)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [Cloud 9](https://ide.c9.io/devnoise/learnyoumongo)
+-   [Cloud 9](https://ide.c9.io/devnoise/camper-api-project)
+-   [learnyoumongo issue](https://github.com/evanlucas/learnyoumongo/issues/55)
+-   [freeCodeCamp forum post](https://forum.freecodecamp.com/t/learnyoumongo-remove-exercise-broken/91859)
 
 ### Day 54: February 28, 2017
 
@@ -541,9 +583,10 @@ Get Set for our API Development Projects.
 **Thoughts:** This was pretty straight forward and reference some of the code from the expressworks exercises. Using toLocaleDateString allowed me to use Vanilla Javascript and not need any custom code for formatting.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [timestamp repo](https://github.com/devNoiseConsulting/timestamp)
-* [Cloud 9](https://ide.c9.io/devnoise/camper-api-project)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [timestamp repo](https://github.com/devNoiseConsulting/timestamp)
+-   [Cloud 9](https://ide.c9.io/devnoise/camper-api-project)
 
 ### Day 55: March 1, 2017
 
@@ -552,8 +595,9 @@ Get Set for our API Development Projects.
 **Thoughts:** Taking a light day and worked on some features for someone who wants to fork myGeoBeerMap.
 
 **Link to work:**
-* [Magic Square Gist](https://gist.github.com/devNoiseConsulting/24c767482638fefa4c6ed8dc4b3d1bcc)
-* [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
+
+-   [Magic Square Gist](https://gist.github.com/devNoiseConsulting/24c767482638fefa4c6ed8dc4b3d1bcc)
+-   [myGeoBeerMap](https://github.com/devNoiseConsulting/myGeoBeerMap/)
 
 ### Day 56: March 2, 2017
 
@@ -562,11 +606,12 @@ Get Set for our API Development Projects.
 **Thoughts:** The Request Header Parser was pretty basic, just pulling some values out of the request object. Got the software by spliting the user-agent string. Found an answer on StackOverflow for getting the IP address. For Heroku, Profile didn't seem to be enough. Adding a "start" and "engine" entry to package.json seem to get things going.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [timestamp microservice](https://pure-river-38627.herokuapp.com/)
-* [timestamp repo](https://github.com/devNoiseConsulting/timestamp)
-* [Request Header Parser Microservice](https://morning-headland-13993.herokuapp.com/)
-* [Request Header Parser repo](https://github.com/devNoiseConsulting/Request-Header-Parser)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [timestamp microservice](https://pure-river-38627.herokuapp.com/)
+-   [timestamp repo](https://github.com/devNoiseConsulting/timestamp)
+-   [Request Header Parser Microservice](https://morning-headland-13993.herokuapp.com/)
+-   [Request Header Parser repo](https://github.com/devNoiseConsulting/Request-Header-Parser)
 
 ### Day 57: March 3, 2017
 
@@ -575,7 +620,8 @@ Get Set for our API Development Projects.
 **Thoughts:** Letting people know that parsing csv is evil. Luckily the data was clean and simple. Wrote a lot of functions for filter and reduce. Would be nice if I could bind some variables to the functions. If I knew how to do that, then I could reduce the number of functions I wrote.
 
 **Link to work:**
-* [Best price per square foot Gist](https://gist.github.com/devNoiseConsulting/2d6737aa0a2f7411794e04d9e6916355)
+
+-   [Best price per square foot Gist](https://gist.github.com/devNoiseConsulting/2d6737aa0a2f7411794e04d9e6916355)
 
 ### Day 58: March 4, 2017
 
@@ -584,7 +630,8 @@ Get Set for our API Development Projects.
 **Thoughts:** Signed up with mLab for the projects storage portion. Verification email took a while to reach my inbox. Will work some more on it tomorrow. Get the repo setup and stubbed out the three routes that the microservice will have.
 
 **Link to work:**
-* [URL Shortener repo](https://github.com/devNoiseConsulting/URL-Shortener)
+
+-   [URL Shortener repo](https://github.com/devNoiseConsulting/URL-Shortener)
 
 ### Day 59: March 5, 2017
 
@@ -593,9 +640,10 @@ Get Set for our API Development Projects.
 **Thoughts:** Got the MongoDB setup on mLab. Searched for examples of how integrate MongoDB into an express app. Getting the app deployed to Heroku is getting easier, though I did forget to setup the env variables before testing the app.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [URL Shortener microservice](https://protected-dawn-47162.herokuapp.com/)
-* [URL Shortener repo](https://github.com/devNoiseConsulting/URL-Shortener)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [URL Shortener microservice](https://protected-dawn-47162.herokuapp.com/)
+-   [URL Shortener repo](https://github.com/devNoiseConsulting/URL-Shortener)
 
 ### Day 60: March 6, 2017
 
@@ -604,8 +652,9 @@ Get Set for our API Development Projects.
 **Thoughts:** Spent a lot of time trying to figure which search api to use for this project. Going with Google Custom Search Engine after reading some posts on the freeCodeCamp forum. The rest of the work was just basic project/repo setup.
 
 **Link to work:**
-* [Image Search Abstraction Layer](https://vast-sea-39536.herokuapp.com/)
-* [Image Search Abstraction Layer repo](https://github.com/devNoiseConsulting/Image-Search-Abstraction-Layer)
+
+-   [Image Search Abstraction Layer](https://vast-sea-39536.herokuapp.com/)
+-   [Image Search Abstraction Layer repo](https://github.com/devNoiseConsulting/Image-Search-Abstraction-Layer)
 
 ### Day 61: March 7, 2017
 
@@ -614,9 +663,10 @@ Get Set for our API Development Projects.
 **Thoughts:** With all the bits setup yesterday, today really focused on getting the code written. Reused a bit of code from the URL Shortener to get the mondoDB going. Since the Google Custom Search Engine API call used HTTPS we needed to require('https').
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [Image Search Abstraction Layer](https://vast-sea-39536.herokuapp.com/)
-* [Image Search Abstraction Layer repo](https://github.com/devNoiseConsulting/Image-Search-Abstraction-Layer)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [Image Search Abstraction Layer](https://vast-sea-39536.herokuapp.com/)
+-   [Image Search Abstraction Layer repo](https://github.com/devNoiseConsulting/Image-Search-Abstraction-Layer)
 
 ### Day 62: March 8, 2017
 
@@ -625,9 +675,10 @@ Get Set for our API Development Projects.
 **Thoughts:** Grinding through these projects. Other than figuring out how to handle the file upload, this was an easy project to work on. Was going to make the static index page fancy with some BootStrap v4, but ditched it. Ran into content placement issues with a navbar. Also, I've run out of free apps on Heroku and had to add a credit card to be able to add more apps to the free dynos.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [File Metadata Microservice](https://pacific-wave-24494.herokuapp.com/)
-* [File Metadata Microservice repo](https://github.com/devNoiseConsulting/File-Metadata-Microservice)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [File Metadata Microservice](https://pacific-wave-24494.herokuapp.com/)
+-   [File Metadata Microservice repo](https://github.com/devNoiseConsulting/File-Metadata-Microservice)
 
 ### Day 63: March 9, 2017
 
@@ -636,7 +687,8 @@ Get Set for our API Development Projects.
 **Thoughts:** The Zig Zag sequence is a tough problem. Came up a solution that solved all but one of the test sequences. Ported a java solution to javascript and made some optimizations.
 
 **Link to work:**
-* [Longest Zig Zag Gist](https://gist.github.com/devNoiseConsulting/e93f666c87f49dbfc2f09c24d5426f6d)
+
+-   [Longest Zig Zag Gist](https://gist.github.com/devNoiseConsulting/e93f666c87f49dbfc2f09c24d5426f6d)
 
 ### Day 64: March 10, 2017
 
@@ -645,8 +697,9 @@ Get Set for our API Development Projects.
 **Thoughts:** Daily programming challenge was pretty straight forward today. Trying to learn some WordPress and Woo Commerce.
 
 **Link to work:**
-* [Brickyard Weapons](https://brickyardweapons.flynnmj.org/)
-* [Reverse Factorial Gist](https://gist.github.com/devNoiseConsulting/f6b3b4bfba55d1275ab65f226542b26b)
+
+-   [Brickyard Weapons](https://brickyardweapons.flynnmj.org/)
+-   [Reverse Factorial Gist](https://gist.github.com/devNoiseConsulting/f6b3b4bfba55d1275ab65f226542b26b)
 
 ### Day 65: March 11, 2017
 
@@ -655,7 +708,8 @@ Get Set for our API Development Projects.
 **Thoughts:** Thought I'd drop back to the Data Visualization tasks. Unfortunately, they have a lot of coming soon sections. Still need a decent introduction to React before I can start using it. Dropped back to just using Vanillia JavaScript to complete the challenge. Not marking it done on freeCodeCamp.
 
 **Link to work:**
-* [Markdown Previewer](http://codepen.io/_dev_noise/pen/xqdWOq)
+
+-   [Markdown Previewer](http://codepen.io/_dev_noise/pen/xqdWOq)
 
 ### Day 66: March 12, 2017
 
@@ -664,7 +718,8 @@ Get Set for our API Development Projects.
 **Thoughts:** Starting to look into ReactJS. Moved over to Codecademy since freeCodeCamp is still working on a ReactJS challenges.
 
 **Link to work:**
-* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+
+-   [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
 
 ### Day 67: March 13, 2017
 
@@ -673,7 +728,8 @@ Get Set for our API Development Projects.
 **Thoughts:** Continuing with learning react. I get how it works, but it is a but strange to put html in my JavaScript. Tend to prefer the Angular way and just put bindings on my HTML to hook into my Javascript.
 
 **Link to work:**
-* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+
+-   [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
 
 ### Day 68: March 14, 2017
 
@@ -682,7 +738,8 @@ Get Set for our API Development Projects.
 **Thoughts:** More hands on work with ReactJS. Really need a shortcut for document.getElementById().
 
 **Link to work:**
-* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+
+-   [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
 
 ### Day 69: March 15, 2017
 
@@ -691,8 +748,9 @@ Get Set for our API Development Projects.
 **Thoughts:** Reviewing concepts learned in Part II, but also applying React design patterns. The Combinatorial Sum was tricky to start and my initial attempt was scrapped. Though in both attempts I went for a brute force method to generate all the combinations.
 
 **Link to work:**
-* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
-* [Finding Combinatorial Sums Gist](https://gist.github.com/devNoiseConsulting/9efde9d55cca8e99e80242bca9ed7366)
+
+-   [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+-   [Finding Combinatorial Sums Gist](https://gist.github.com/devNoiseConsulting/9efde9d55cca8e99e80242bca9ed7366)
 
 ### Day 70: March 16, 2017
 
@@ -701,8 +759,9 @@ Get Set for our API Development Projects.
 **Thoughts:** More React concepts. Generally try to keep the components simple. Make display component stateless and move logic to a parent component.
 
 **Link to work:**
-* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
-* [Sort With Old Position](https://gist.github.com/devNoiseConsulting/d3eb37268dc76dbca5fd1491b362b884)
+
+-   [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+-   [Sort With Old Position](https://gist.github.com/devNoiseConsulting/d3eb37268dc76dbca5fd1491b362b884)
 
 ### Day 71: March 17, 2017
 
@@ -711,8 +770,9 @@ Get Set for our API Development Projects.
 **Thoughts:** The life cycle calls the covered make sense, but I think I'll understand them better when I have code that uses them. Did FizzBuzz for the daily programming challenge. Was pretty straight forward so I made a couple of solutions. Turns out that .map and .forEach seem to be faster then a for loop.
 
 **Link to work:**
-* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
-* [FizzBuzz](https://gist.github.com/devNoiseConsulting/97e264fcf71058c1e8514a0325707000)
+
+-   [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+-   [FizzBuzz](https://gist.github.com/devNoiseConsulting/97e264fcf71058c1e8514a0325707000)
 
 ### Day 72: March 18, 2017
 
@@ -721,7 +781,8 @@ Get Set for our API Development Projects.
 **Thoughts:** Converting code from a Codecademy exercise for this challenge. I thought I had working code, but can't get it to work on CodePen. Keep getting a "Unclosed Regular Expression". I thought the Babel transpiler would take care of this.
 
 **Link to work:**
-* [CodePen](http://codepen.io/_dev_noise/pen/jBYYKR)
+
+-   [CodePen](http://codepen.io/_dev_noise/pen/jBYYKR)
 
 ### Day 73: March 19, 2017
 
@@ -731,7 +792,8 @@ Get Set for our API Development Projects.
 Other than one problem with the JSX, the code I had written worked. Bigger problem is that I can get BootStrap into the app via Webpack.
 
 **Link to work:**
-* [Markdown Previewer Repo](https://github.com/devNoiseConsulting/Markdown-Previewer)
+
+-   [Markdown Previewer Repo](https://github.com/devNoiseConsulting/Markdown-Previewer)
 
 ### Day 74: March 20, 2017
 
@@ -740,9 +802,10 @@ Other than one problem with the JSX, the code I had written worked. Bigger probl
 **Thoughts:** Went back to CodePen as that is the only way to complete the challenge. Drop back a bit and implement one component at a time. I think the HTML I used in the App component might have the root cause of my initial problems. Also Taking JSX HTML and putting it in HTML might cause a problem since className won't apply a CSS class to the element.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [CodePen](http://codepen.io/_dev_noise/pen/jBYYKR)
-* [Cardinality Sort Gist](https://gist.github.com/devNoiseConsulting/df2b6d92b9aef0ff52b87ec89c4a040f)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [CodePen](http://codepen.io/_dev_noise/pen/jBYYKR)
+-   [Cardinality Sort Gist](https://gist.github.com/devNoiseConsulting/df2b6d92b9aef0ff52b87ec89c4a040f)
 
 ### Day 75: March 21, 2017
 
@@ -751,8 +814,9 @@ Other than one problem with the JSX, the code I had written worked. Bigger probl
 **Thoughts:** Figured how to make React generate multiple components. Made use of componentDidMount to make the initial fetch for the data. Didn't have enough time to figure out getting webpack to process CSS files.
 
 **Link to work:**
-* [Camper Leaderboard Repo](https://github.com/devNoiseConsulting/Camper-Leaderboard)
-* [Digit Sum Gist](https://gist.github.com/devNoiseConsulting/e67f546adad4b5ee5ea9e2b279f56c85)
+
+-   [Camper Leaderboard Repo](https://github.com/devNoiseConsulting/Camper-Leaderboard)
+-   [Digit Sum Gist](https://gist.github.com/devNoiseConsulting/e67f546adad4b5ee5ea9e2b279f56c85)
 
 ### Day 76: March 22, 2017
 
@@ -761,10 +825,11 @@ Other than one problem with the JSX, the code I had written worked. Bigger probl
 **Thoughts:** I may need to look into sass some more, but I tend to stick with Bootstrap for styling my UI. I've taken to making github repos for the challenges/projects as I get better feedback than Codepen gives me. Spent a lot of time trying to get webpack to suck in Bootstrap. Will need to look into webpack to figure a good build process.
 
 **Link to work:**
-* [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
-* [CodePen](https://codepen.io/_dev_noise/pen/BWrXgY)
-* [Camper Leaderboard Repo](https://github.com/devNoiseConsulting/Camper-Leaderboard)
-* [Weighted Sum of Digits Gist](https://gist.github.com/devNoiseConsulting/26947e4496308a3e48865c74c5502b68)
+
+-   [freeCodeCamp Profile](https://www.freecodecamp.com/devnoiseconsulting)
+-   [CodePen](https://codepen.io/_dev_noise/pen/BWrXgY)
+-   [Camper Leaderboard Repo](https://github.com/devNoiseConsulting/Camper-Leaderboard)
+-   [Weighted Sum of Digits Gist](https://gist.github.com/devNoiseConsulting/26947e4496308a3e48865c74c5502b68)
 
 ### Day 77: March 23, 2017
 
@@ -773,7 +838,8 @@ Other than one problem with the JSX, the code I had written worked. Bigger probl
 **Thoughts:** Getting the repo setup, loading the needed npm modules, and setting up the initial components. Making the child components as stateless as possible, so I need to send a lot of props down. Next step is to figure out how to send a click up the components to indicate that the user has populated a cell.
 
 **Link to work:**
-* [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
+
+-   [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
 
 ### Day 78: March 24, 2017
 
@@ -782,8 +848,9 @@ Other than one problem with the JSX, the code I had written worked. Bigger probl
 **Thoughts:** The Vowel Count was pretty easy after the Word Ladder problem from Thursday. The conversation about my Word Ladder solution got me to work on some revisions to improve the weighting for changing words.
 
 **Link to work:**
-* [Vowel Count Gist](https://gist.github.com/devNoiseConsulting/074de986f1679fa6d88daa1f7be2c00c)
-* [Word Ladder Gist](https://gist.github.com/devNoiseConsulting/a2c8fb0223f45b3f1b7b2db7b34db631)
+
+-   [Vowel Count Gist](https://gist.github.com/devNoiseConsulting/074de986f1679fa6d88daa1f7be2c00c)
+-   [Word Ladder Gist](https://gist.github.com/devNoiseConsulting/a2c8fb0223f45b3f1b7b2db7b34db631)
 
 ### Day 79: March 25, 2017
 
@@ -792,7 +859,8 @@ Other than one problem with the JSX, the code I had written worked. Bigger probl
 **Thoughts:** Worked on getting the code to pass the toggleCell down the component chain so the table cell could handle the click correctly. The worked on the functions for the buttons to work with. Then spent a lot of time figuring out code for the next generation.
 
 **Link to work:**
-* [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
+
+-   [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
 
 ### Day 80: March 26, 2017
 
@@ -803,7 +871,8 @@ generation interval. Changed the radomizeLife function to add living cells to th
 gameCells instead of making a new board. Change calculateCell to wrap around so spaceships could live on. Having problems getting the code to work on codepen.io
 
 **Link to work:**
-* [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
+
+-   [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
 
 ### Day 81: March 27, 2017
 
@@ -812,13 +881,14 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 **Thoughts:** I can't waste any more time trying to get codepen.io to work with my React code. I can get the code working locally and can deploy to my hosting plan with much less effort. Also tweaked some of my other React projects so they could be deployed. For the daily programming challenge, I tried a second solution to use a .forEach to initialize the Fibonacci terms. It works, but I don't think it's better than the for loop I originally came up with.
 
 **Link to work:**
-* [Game of Life](https://freecodecamp.devnoise.com/game-of-life/)
-* [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
-* [Camper Leaderboard](https://freecodecamp.devnoise.com/camper-leaderboard)
-* [Camper Leaderboard Repo](https://github.com/devNoiseConsulting/Camper-Leaderboard)
-* [Markdown Previewer](https://freecodecamp.devnoise.com/markdown-previewer)
-* [Markdown Previewer Repo](https://github.com/devNoiseConsulting/Markdown-Previewer)
-* [Sum Even Fibonacci Terms Less Than N](https://gist.github.com/devNoiseConsulting/86bd3889eb7fe79fb5bdc88dba49f1ae)
+
+-   [Game of Life](https://freecodecamp.devnoise.com/game-of-life/)
+-   [Game of Life Repo](https://github.com/devNoiseConsulting/Game-of-Life)
+-   [Camper Leaderboard](https://freecodecamp.devnoise.com/camper-leaderboard)
+-   [Camper Leaderboard Repo](https://github.com/devNoiseConsulting/Camper-Leaderboard)
+-   [Markdown Previewer](https://freecodecamp.devnoise.com/markdown-previewer)
+-   [Markdown Previewer Repo](https://github.com/devNoiseConsulting/Markdown-Previewer)
+-   [Sum Even Fibonacci Terms Less Than N](https://gist.github.com/devNoiseConsulting/86bd3889eb7fe79fb5bdc88dba49f1ae)
 
 ### Day 82: March 28, 2017
 
@@ -827,8 +897,9 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 **Thoughts:** Flexing memory muscle getting this project started. No real issues, just taking time to get the repo setup and npm modules installed. Stubbed out the components that I think I'll need. Will need to make it more interactive tomorrow. For the daily programming challenge, I came up with 2 solutions. The .forEach is a more natural solution for me. The .splice took some though around the for loop condition and insertion index.
 
 **Link to work:**
-* [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
-* [Alternating Concat Gist](https://gist.github.com/devNoiseConsulting/d0d731208aa0ffe8b6f00824b9cedaff)
+
+-   [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
+-   [Alternating Concat Gist](https://gist.github.com/devNoiseConsulting/d0d731208aa0ffe8b6f00824b9cedaff)
 
 ### Day 83: March 29, 2017
 
@@ -837,8 +908,9 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 **Thoughts:** Change the Recipe panel to show/hide the ingredients. It works, but may need some sort of animation to make the show/hide look better. Worked on a modal to let the user add new recipes. UI is in place, but nothing is wired up. This also lead me to realize that while I installed node modules for dev use they didn't get saved to package.json. The daily programming challenge worked, but was revised after seeing more information and a solution for the challenge. Realized I could reduce the overlap checking to one test.
 
 **Link to work:**
-* [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
-* [Merge Overlapping Intervals Gist](https://gist.github.com/devNoiseConsulting/ce7ec6ada57e60d87925f94ffcc3e909)
+
+-   [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
+-   [Merge Overlapping Intervals Gist](https://gist.github.com/devNoiseConsulting/ce7ec6ada57e60d87925f94ffcc3e909)
 
 ### Day 84: March 30, 2017
 
@@ -847,8 +919,9 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 **Thoughts:** Made progress on adding features to the Recipe Box and passing the functions through multiple components. The daily programming challenge was pretty quick, so I opted to work on multiple solutions.
 
 **Link to work:**
-* [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
-* [Shuffle Larger Number Gist](https://gist.github.com/devNoiseConsulting/2545354085b7ce3f96ece9f2b73735ac)
+
+-   [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
+-   [Shuffle Larger Number Gist](https://gist.github.com/devNoiseConsulting/2545354085b7ce3f96ece9f2b73735ac)
 
 ### Day 85: March 31, 2017
 
@@ -857,8 +930,9 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 **Thoughts:** Trying to get the bootstrap modal to be dual purpose, but running into problems getting is wired up. Adding a lot of state in the App component.
 
 **Link to work:**
-* [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
-* [PHP FizzBuzz Gist](https://gist.github.com/devNoiseConsulting/b338da81cac98df91d5cb8b881eec791)
+
+-   [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
+-   [PHP FizzBuzz Gist](https://gist.github.com/devNoiseConsulting/b338da81cac98df91d5cb8b881eec791)
 
 ### Day 86: April 1, 2017
 
@@ -867,7 +941,8 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 **Thoughts:** Generally this was supposed to be throw away code, but it lives on. My biggest problem was tracking down a minor floating point issues. When I was trying to calculate the distance between point with Lat and Lng, sometimes I would get NaN. For some reason one of the line would return a number that was minutely over 1, which would cause the Math.acos function to return NaN. Honestly the function to calc distance was a copy and paste job.
 
 **Link to work:**
-* [geoBeer Repo](htthttps://github.com/devnoiseconsulting/geoBeer)
+
+-   [geoBeer Repo](htthttps://github.com/devnoiseconsulting/geoBeer)
 
 ### Day 87: April 2, 2017
 
@@ -876,7 +951,8 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 **Thoughts:** Rolled the code back to a state where adding worked and editing was just stubbed out. Made a new component to handle the editing. Not sure if my solution for editing is really the proper React way, but it works. Then some work on getting the new recipe data back into the App's state. Also ran into some problem in git with how I rolled my code back.
 
 **Link to work:**
-* [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
+
+-   [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
 
 ### Day 88: April 3, 2017
 
@@ -885,10 +961,11 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 **Thoughts:** Keep forgetting that the localStorge is not an object store. Need JSON.stringify() and JSON.parse to have the data in a useful state. Having to track down that issue took a little bit of time. Was able to get my React code to work on Codepen.io without much effort. Spent more time getting the bootstrap modal working. Needed to include the Javascript components of BootStrap. The daily programming challenge was easier as I had already made a Roman numerial converter for freeCodeCamp. I tweaked the looping, but core logic stayed the same. Snagged a code snippet from Stack Overflow to reduce the string to unique letters.
 
 **Link to work:**
-* [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
-* [CodePen](http://codepen.io/_dev_noise/full/JWzKoL/)
-* [Recipe Box](https://freecodecamp.devnoise.com/recipe-box)
-* [Pandigital Roman Numerals](https://gist.github.com/devNoiseConsulting/cf5ab178fd6f2ba68eda16f09cc5d17a)
+
+-   [Recipe Box Repo](https://github.com/devNoiseConsulting/Recipe-Box)
+-   [CodePen](http://codepen.io/_dev_noise/full/JWzKoL/)
+-   [Recipe Box](https://freecodecamp.devnoise.com/recipe-box)
+-   [Pandigital Roman Numerals](https://gist.github.com/devNoiseConsulting/cf5ab178fd6f2ba68eda16f09cc5d17a)
 
 ### Day 89: April 4, 2017
 
@@ -896,9 +973,9 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Thoughts:** Daily challenge was straight forward, just needed to use Array.filter to get the results needed. The rouguelike project seemed complicated, so I switched to gettting some more skills with Sass. Unfortunately those challenges are broken. Then switched over to work on the Mobile Sites certification from Google. Can't really show work for that.
 
-* [freeCodeCamp Profile](https://beta.freecodecamp.com/devnoiseconsulting)
-* [Period Table Filter Gist](https://gist.github.com/devNoiseConsulting/dedebdede5dc3f654870790da51f5a09)
-* [Mobile Sites certification](https://support.google.com/partners/answer/7358898?hl=en)
+-   [freeCodeCamp Profile](https://beta.freecodecamp.com/devnoiseconsulting)
+-   [Period Table Filter Gist](https://gist.github.com/devNoiseConsulting/dedebdede5dc3f654870790da51f5a09)
+-   [Mobile Sites certification](https://support.google.com/partners/answer/7358898?hl=en)
 
 ### Day 90: April 5, 2017
 
@@ -906,9 +983,9 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Thoughts:** Can't really remember my thoughts. Just getting through the material and taking the exam. Would be nice if you could see what topics/areas you didn't do well in.
 
-* [Mobile Sites certification](https://support.google.com/partners/answer/7358898?hl=en)
-* [Google Partner Profile](https://www.google.com/partners/#i_profile;idtf=112737417005186127086;)
-* [Periodic Word Gist](https://gist.github.com/devNoiseConsulting/2f60b30bc5284b4808b44f144715b6bb)
+-   [Mobile Sites certification](https://support.google.com/partners/answer/7358898?hl=en)
+-   [Google Partner Profile](https://www.google.com/partners/#i_profile;idtf=112737417005186127086;)
+-   [Periodic Word Gist](https://gist.github.com/devNoiseConsulting/2f60b30bc5284b4808b44f144715b6bb)
 
 ### Day 91: April 6, 2017
 
@@ -916,7 +993,7 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Thoughts:** The daily challenge was a repeat from last month. I got the challenge via my phone and completed the challenge from memory as I didn't have wifi for my laptop. Today's solution was a bit more compact than the last one I did.
 
-* [Kaprekar's Routine Gist](https://gist.github.com/devNoiseConsulting/beec314a75662c083e2196b514102b71)
+-   [Kaprekar's Routine Gist](https://gist.github.com/devNoiseConsulting/beec314a75662c083e2196b514102b71)
 
 ### Day 92: April 7, 2017
 
@@ -924,8 +1001,8 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Thoughts:** Trying to get a bit more experience with Sass. Completed 2 of the 4 sections. The daily programming challenge was simple to get setup, but ran into some minor issues. Had to debug a couple times to get the bounds condition correct.
 
-* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
-* [Longest Substring Gist](https://gist.github.com/devNoiseConsulting/6f942e56b08e3ab18d62bb933d812f7b)
+-   [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+-   [Longest Substring Gist](https://gist.github.com/devNoiseConsulting/6f942e56b08e3ab18d62bb933d812f7b)
 
 ### Day 93: April 8, 2017
 
@@ -933,8 +1010,7 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Thoughts:** Finished the last 2 section of the course. There are some concepts which is I completed, but think some more practice would be helpful.
 
-* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
-
+-   [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
 
 ### Day 94: April 9, 2017
 
@@ -942,7 +1018,7 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Thoughts:** I was able to progress through about 9-10 of the D3 exercises before I hit the wall. Which is a lot more than I could do with the Sass challenges on the beta site. For most of the challenges, I just commented out the `const dataset...` line and replaced the dataset variable with the literal array. This worked up until the SVG challenge were it wouldn't let me hardcode the height and width of the SVG element.
 
-* [freeCodeCamp Profile](https://beta.freecodecamp.com/devnoiseconsulting)
+-   [freeCodeCamp Profile](https://beta.freecodecamp.com/devnoiseconsulting)
 
 ### Day 95: April 10, 2017
 
@@ -950,7 +1026,7 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Thoughts:** Binary Trees are right above my comfort level with code. I had to crib some knowledge from some webpages to get a working solution. After getting the node object solution working, I tried to get an array only solution to work. It works for a tree that has less than 3 levels.
 
-* [Inverting Binary Tree Gist](https://gist.github.com/devNoiseConsulting/6d5a5fb9c396d363d3d362b8d60e03cd)
+-   [Inverting Binary Tree Gist](https://gist.github.com/devNoiseConsulting/6d5a5fb9c396d363d3d362b8d60e03cd)
 
 ### Day 96: April 11, 2017
 
@@ -958,7 +1034,7 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Thoughts:** Back to Binary tress for the challenge today. Reused some code from yesterday's challenge. Used the traverse function I wrote yesterday as the basis for the comapreTrees function. Looks very different now, but the basic concept it there. Look at the data attribute, then handle the left and right children. Initially I used one variable to hold the equal state. Some debugging showed that the right side could over write a false state on the left side. Also made some functions to handle the tree initialization and testing.
 
-* [Compare Binary Trees Gist](https://gist.github.com/devNoiseConsulting/e920ec252dde75fb9a0767436ae87c89)
+-   [Compare Binary Trees Gist](https://gist.github.com/devNoiseConsulting/e920ec252dde75fb9a0767436ae87c89)
 
 ### Day 97: April 12, 2017
 
@@ -966,8 +1042,8 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Thoughts:** Want to move forward with the Data Visualization Certification. Still need to learn a lot more about D3.js. Tried getting a solution to work from some examples and tutorials I found. Was able to following along and got the bar chart to display something. Problem is I can't seem to get the axis code working. The daily challenge was to find tree depth. Use the traverse function as a starting point and then convert to the solution I need. Had more issues with testing the code. Tried to create an unbalanced binary tree. Had to modify the initialization to handle null as an input. Also tweaked the traverse to show an empty child, but also not show the empty child if both children are null.
 
-* [CodePen](http://codepen.io/_dev_noise/pen/jmOwGK)
-* [Binary Tree Depth Gist](https://gist.github.com/devNoiseConsulting/1efb96f3ad66de5d0d0905b0f2f5142e)
+-   [CodePen](http://codepen.io/_dev_noise/pen/jmOwGK)
+-   [Binary Tree Depth Gist](https://gist.github.com/devNoiseConsulting/1efb96f3ad66de5d0d0905b0f2f5142e)
 
 ### Day 98: April 13, 2017
 
@@ -975,8 +1051,8 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Thoughts:** A bit of recoding after I forked the Codepen. Made use of D3.json to get the data. Followed a couple examples to get things working. X Axis looks good. Y Axis doesn't have any ticks on it. The programming challenge was to find the length of the longest path between node in a binary tree. Logic started from the treeDepth function I wrote the day before, but then also calculating the longest path for the children.
 
-* [CodePen](http://codepen.io/_dev_noise/pen/zwxNjX/)
-* [Longest Path Between Nodes Gist](https://gist.github.com/devNoiseConsulting/e3875eb007eac63a1de850986d23f0a5)
+-   [CodePen](http://codepen.io/_dev_noise/pen/zwxNjX/)
+-   [Longest Path Between Nodes Gist](https://gist.github.com/devNoiseConsulting/e3875eb007eac63a1de850986d23f0a5)
 
 ### Day 99: April 14, 2017
 
@@ -984,8 +1060,8 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Thoughts:** Tried to get the tool tip working on the graph. Not much success even through I'm following example code. For the programming challenge, I needed to make copies of the arrays I sent into the recursive function. Otherwise the path would get corrupted because I would have data that valid for the node I was processing.
 
-* [CodePen](http://codepen.io/_dev_noise/pen/QvwzR/)
-* [Find Leaf Paths Gist](https://gist.github.com/devNoiseConsulting/c3df520dd5ffa20b7a6e6e98925fa855)
+-   [CodePen](http://codepen.io/_dev_noise/pen/QvwzRX/)
+-   [Find Leaf Paths Gist](https://gist.github.com/devNoiseConsulting/c3df520dd5ffa20b7a6e6e98925fa855)
 
 ### Day 100: April 15, 2017
 
@@ -993,8 +1069,8 @@ gameCells instead of making a new board. Change calculateCell to wrap around so 
 
 **Thoughts:** While doing this course I also tried to get Jeykll install on my desktop via MacPorts. Default Ruby is 1.8, Jeykll wants something higher so Ruby 2.4 was install as well. My defaults for setting up a Github repo caused a small conflict. Had to pull down the files from Github and clear up the conflict in the .gitignore file. Also had a typo in the repo name so I had to change that. I have use Route 53 on AWS in the past, but went with the DNS on my hosting plan. Created a CNAME entry to point to the Github IO pages.
 
-* [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
-* [Jeykll Website](http://codecademy.devnosie.com/)
+-   [codecademy Achievements](https://www.codecademy.com/users/flynnmj/achievements)
+-   [Jeykll Website](http://codecademy.devnosie.com/)
 
 <!--
 
